@@ -1,0 +1,35 @@
+body {
+    font-size: 0.85em; /*font-family:  Georgia, serif;*/
+    font-family: Arial, Verdana, Helvetica, sans-serif;
+
+}
+
+h2 {
+    background-color: #3333ff;
+    color:white;
+    font-size:1.5em;
+    padding-left:5px;
+}
+h3 {
+    color:blue;
+    font-size:1.1em;
+}
+#small_page_heading {
+    background-image: url(../images/FOREST_GLADE_blue.png);
+    background-repeat: no-repeat;
+    background-position: 30px 10px;
+    height:50px;
+    width:410px;
+}
+
+p {
+    color: #3333ff;
+    font-size:0.95em;
+}
+ul {
+    width:90%;
+}
+li {
+    color: #3333ff;
+    font-size:0.9em;
+}
