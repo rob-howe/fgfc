@@ -15,7 +15,7 @@ Learn more ~ http://www.gridsystemgenerator.com/
 .grid_4 {width: 234px;}
 .grid_5 {width: 294px;}
 .grid_6 {width: 354px;}
-.grid_7 {width: 414px;}
+.grid_7 {width: 408px;}
 .grid_8 {width: 474px;}
 .grid_9 {width: 534px;}
 .grid_10 {width: 594px;}
@@ -24,7 +24,7 @@ Learn more ~ http://www.gridsystemgenerator.com/
 .grid_13 {width: 774px;}
 .grid_14 {width: 834px;}
 .grid_15 {width: 894px;}
-.grid_16 {width: 954px;}
+.grid_16 {width: 956px;}
 .column {
     margin: 0 3px 0 3px;
     overflow: hidden;
@@ -36,7 +36,6 @@ Learn more ~ http://www.gridsystemgenerator.com/
     /*margin: 0 auto;*/
     overflow: hidden;
     background-color: white;
-    border-radius: 10px;
     margin-top: 2px;
     margin-bottom: 2px;
     padding-top: 1px;

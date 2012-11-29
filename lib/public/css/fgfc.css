@@ -24,11 +24,11 @@ body {
 #header-X {
     /*background: url( ../images/Header-Background.png ) repeat-x;*/
     background-color: #000066;
-    border-radius: 10px;
+    border-radius: 3px;
 }
 #redback-header-X {
-    background-color: #cc0000;
-    border-radius: 10px;
+    background-color: #a90000;
+    border-radius: 3px;
 }
 
 #small_page_heading {
@@ -211,7 +211,6 @@ body {
     color: blue;
     height: 18px;
     width:430px;
-    border-radius: 4px;
 }
 
 .news-heading_red {
@@ -266,7 +265,6 @@ p.small-text-right {
     vertical-align: text-top;
     text-align:left;
     padding-left: 3px;
-    border-radius: 10px;
 }
 
 .action-image {
@@ -313,7 +311,6 @@ p.small-text-right {
     /*border-bottom: 1px solid #0000FF;*/
     font-size: 0.8em;
     text-align: center;
-    border-radius: 3px;
 }
 #redback_footer {
     /*border-top: 1px solid #ff9999;*/
@@ -323,7 +320,6 @@ p.small-text-right {
     /*border-bottom: 1px solid #ff3333;*/
     font-size: 0.8em;
     text-align: center;
-    border-radius: 3px;
 }
 
 #nav {
@@ -528,7 +524,6 @@ p.small-text-right {
     /*border-top: #ffff66 1px solid;*/
     /*border-bottom: #ffffff 1px solid;*/
     border: 1px solid #cccccc;
-    border-radius: 4px;
 }
 
 .mini_fixtures {

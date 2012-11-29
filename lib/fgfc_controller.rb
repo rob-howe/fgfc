@@ -8,6 +8,10 @@ class FgfcController < Sinatra::Base
   end
 
   get '/pages/:page' do
-     erb :"#{params[:page]}"
+    @redbacks = params[:page].start_with? 'redbacks'
+    erb :"#{params[:page]}"
   end
+
+String
+
 end
