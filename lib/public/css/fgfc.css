@@ -7,7 +7,6 @@ body {
 
 #content_wrapper {
     background-color: white;
-    min-width: 956px;
     min-height: 600px;
     text-align: left;
     overflow:auto;
@@ -133,8 +132,7 @@ body {
 }
 #fgfc_map {
     padding-top:10px;
-    float: right;
-    margin-right: 20px;
+    margin-left: 20px;
     /*background-color: #dfdcdc;*/
 }
 
