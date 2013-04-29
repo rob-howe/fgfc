@@ -1,12 +1,8 @@
 source 'http://rubygems.org'
 
 gem 'sinatra'
-gem 'json'
-gem 'nokogiri'
-gem 'oj'
 gem 'activesupport'
 gem 'faraday'
-gem 'uagent'
 
 # async calls with thin
 gem 'rack-fiber_pool'
@@ -14,7 +10,6 @@ gem 'em-synchrony'
 gem 'em-http-request'
 # async calls with thin
 gem 'thin'
-gem 'rack-ssl-enforcer'
 
 group :development do
   gem 'cucumber'
