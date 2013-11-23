@@ -2,174 +2,97 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22f1ae15-8159-4826-b5bf-91437d87f3e5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/018.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/03102010016.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/044.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/060.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/1-pixel-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/960_16_3_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/CS Community Club Badge.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/FA-CS.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/FOREST_GLADE_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/Foundation-blue.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/Header-Background-RedBacks.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/Header-Background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/IMG_0105.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/IMG_0109.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/IMG_0113.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/RedBack-Header-Alternative.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/RedBack-Header-Background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/SL371148.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/Team 2010 to 2011 160.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/U12C.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/U13.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/blue_gradient_background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/bronco-diamond-dig-for-victory4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/bronco-diamond-dig.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/div_head_background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/essex-redbacks-link.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/fa_com_strd.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/fa_yourgame.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/fg5s-logo-light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/fg5s-small-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/fgfc_banner.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/fgfc_map.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/fgfc_redbacks.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/fgfc_redbacks.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/forestgladefc2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/girls_fest1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/girls_fest2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/girls_fest3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/gray-small-background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/history.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/home-page1.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/home_page2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/julie team.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/menu_sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/minus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/minus.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/minusBox.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/more-arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/more-down-arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/news-item.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/no_team_picture.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/plus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/plusBox.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/redback-link.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/redback_header.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/redbacks.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/redbacks_header.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/redbacks_header.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/rosareth-home-image.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/seniors.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/she-kicks.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/teams/blue1993.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/teams/blue1995.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/teams/blue1995.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/teams/blue2001.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/teams/fives_header_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/teams/fives_header_bg.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/teams/lions2002-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/teams/lions2002.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/teams/lions2005.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/teams/no_team_picture.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/teams/pony.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/teams/red1998-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/teams/red1998.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/teams/red1999.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/teams/seniors.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/teams/tigers2000.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/teams/tigers2002.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/teams/u10girls.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/teams/u11_red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/teams/u12girls.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/teams/u13blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/teams/u6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/teams/white1996.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/teams/white1997.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/teams/white1999.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/u11a.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/u11b.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/u11b.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/u11c.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/u12a.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/u12b.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/u12c.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/u13a.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/u13b.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/u13b.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/u14a.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/u14b.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/u14b.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/u14c.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/u15a.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/u15b.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/u16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/u16a.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/u18a.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/u7leopards.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/u7lions.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/u7tigers.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/u8 tigers.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/u8leopards.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/u8lions.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/u8lions.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/images/u8tigers.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/contacts.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/ebhfl.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/error.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/error_404.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/find_us.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/girls_festival.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/girls_wanted.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/history.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/home.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/honours.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/managersConduct.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/playersConduct.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/redbacks-pony.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/redbacks.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/seniors.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/u10leopards.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/u10leopards2012.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/u10lions.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/u10pumas.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/u10tigers.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/u11blue.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/u11girls.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/u11white.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/u12blue.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/u12girls.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/u12red.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/u12white.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/u13blue.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/u14blue.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/u14girls.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/u14red.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/u14white.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/u15blue.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/u15white.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/u16red2012.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/u16white.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/u16white2012.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/u18blue.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/u18blue2012.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/u18white.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/u5-2102.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/u7leopards.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/u7lions.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/u7tigers.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/u8lions.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/u8tigers.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/u8tigers2012.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/views/u9lions.erb" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/views/layout.erb" afterPath="$PROJECT_DIR$/lib/views/down.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/Foundation-blue.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/team/blue1999.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/team/blue2001.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/blue_exclamation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/blue_info.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/blue_team.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/fa_badge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/fa_cs.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/fgfc_banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/fgfc_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/fgfc_logo_small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/fgfc_map.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/fgfc_redbacks.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/gray_exclamation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/gray_info.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/green_exclamation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/green_info.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/team/lions2005.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/team/lions2006.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/team/red1999.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/team/red2000.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/red_exclamation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/team/u12girls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/team/u14girls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/team/white1996.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/team/white1997.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/team/white1998.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/team/white1999.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/team/white2000.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/team/white2002.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/css/carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/views/carousel.slim" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/views/contact.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/views/contact.slim" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/data/news/data.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/views/error.slim" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/views/error_404.slim" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/views/find_us.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/views/find_us.slim" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/data/team_data/girls.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/data/team_data/hash.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/views/history.slim" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/js/holder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/views/home.slim" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/views/honours.slim" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/hounours/honours_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/js/jquery1.9.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/views/layout.slim" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/views/managers_conduct.slim" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/views/players_conduct.slim" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/data/team_data/seniors.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/spec_helper.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/views/team.slim" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/team_data.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/views/team_menu.slim" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/teams.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/data/team_data/u10.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/data/team_data/u11blue.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/data/team_data/u11white.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/data/team_data/u12blue.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/data/team_data/u12red.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/data/team_data/u12white.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/data/team_data/u13blue.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/data/team_data/u14blue.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/data/team_data/u14red.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/data/team_data/u14white.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/data/team_data/u15blue.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/data/team_data/u15white.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/data/team_data/u16white.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/data/team_data/u18blue.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/data/team_data/u18white.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/data/team_data/u5.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/data/team_data/u6.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/data/team_data/u7.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/data/team_data/u8.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/data/team_data/u9.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/css/yamm.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/teams/youth_team_page_spec.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.rvmrc" afterPath="$PROJECT_DIR$/.rvmrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/public/css/fgfc.css" afterPath="$PROJECT_DIR$/lib/public/css/fgfc.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fgfc.iml" afterPath="$PROJECT_DIR$/fgfc.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/fgfc_controller.rb" afterPath="$PROJECT_DIR$/lib/fgfc_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="fgfc.iws" />
@@ -217,8 +140,8 @@
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/layout.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385243040046" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/data/team_data/u10.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1384886383315" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/players_conduct.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385243046997" ignored="false" />
-    <file path="/application.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385105986862" ignored="false" />
-    <file path="$PROJECT_DIR$/../fgfc-new/lib/application.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385105986862" ignored="false" />
+    <file path="/application.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385246117293" ignored="false" />
+    <file path="$PROJECT_DIR$/../fgfc-new/lib/application.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385246117293" ignored="false" />
     <file path="/managers_conduct.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1384885884802" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/managers_conduct.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385243045799" ignored="false" />
     <file path="/fgfc.css" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385240549671" ignored="false" />
@@ -236,7 +159,7 @@
     <file path="$PROJECT_DIR$/../fgfc-new/lib/data/team_data/seniors.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385075037722" ignored="false" />
     <file path="/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385240592243" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385242864000" ignored="false" />
-    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385244752018" ignored="false" />
+    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385245424185" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -295,10 +218,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="down.erb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/views/down.erb">
+      <file leaf-file-name="youth_team_page_spec.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/teams/youth_team_page_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="36" selection-start="955" selection-end="955" vertical-scroll-proportion="0.5731463">
+            <state line="9" column="36" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".rvmrc" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.rvmrc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="49" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fgfc_controller.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/fgfc_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="88" column="0" selection-start="1779" selection-end="1779" vertical-scroll-proportion="3.6528301">
               <folding />
             </state>
           </provider>
@@ -322,8 +263,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/lib/fgfc_controller.rb" />
         <option value="$PROJECT_DIR$/lib/views/down.erb" />
+        <option value="$PROJECT_DIR$/.rvmrc" />
+        <option value="$PROJECT_DIR$/lib/fgfc_controller.rb" />
       </list>
     </option>
   </component>
@@ -390,6 +332,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fgfc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fgfc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="teams" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fgfc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fgfc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -426,51 +400,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fgfc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fgfc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fgfc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fgfc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -485,17 +415,19 @@
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/config.ru" />
+    <property name="MemberChooser.sorted" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/config.ru" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/lib" />
       <recent name="$PROJECT_DIR$/lib/views" />
     </key>
   </component>
@@ -768,11 +700,16 @@
       <created>1384719063527</created>
       <updated>1384719063527</updated>
     </task>
+    <task id="LOCAL-00001" summary="Removed old site and added down for maintenance">
+      <created>1385244855033</created>
+      <updated>1385244855033</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="27" width="1682" height="1024" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -785,19 +722,19 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24907522" sideWeight="0.67132866" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24907522" sideWeight="0.67132866" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32867134" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -839,7 +776,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed old site and added down for maintenance" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -852,6 +789,7 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="Removed old site and added down for maintenance" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -861,14 +799,65 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/fgfc_controller.rb">
+    <entry file="file://$PROJECT_DIR$/lib/views/down.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="27" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0" />
+        <state line="20" column="34" selection-start="885" selection-end="885" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/public/css/fgfc.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/data/team_data/u16white.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.ru">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="16" selection-start="160" selection-end="160" vertical-scroll-proportion="0.16256158">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/views/down.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="36" selection-start="955" selection-end="955" vertical-scroll-proportion="0.5731463">
+        <state line="20" column="34" selection-start="885" selection-end="885" vertical-scroll-proportion="0.028169014">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/team_data.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/teams/youth_team_page_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="36" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.rvmrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="49" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/fgfc_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="88" column="0" selection-start="1779" selection-end="1779" vertical-scroll-proportion="3.6528301">
           <folding />
         </state>
       </provider>

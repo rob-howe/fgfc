@@ -1,0 +1,86 @@
+html
+  head
+    meta name="viewport" content="width=device-width, initial-scale=1.0"
+    meta charset="utf-8"
+    meta name="description" content=""
+    meta name="author" content=""
+    link rel="shortcut icon" href="/images/favicon.ico"
+
+    title Forest Glade FC
+
+    link href="/css/bootstrap.min.css" rel="stylesheet"
+
+    | <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    | <!--[if lt IE 9]>
+    | <script src="../../assets/js/html5shiv.js</script>
+    | <script src="../../assets/js/respond.min.js</script>
+    | <![endif]-->
+
+    link href="/css/carousel.css" rel="stylesheet"
+    link href="/css/yamm.css" rel="stylesheet"
+    link href="/css/fgfc.css" rel="stylesheet"
+
+    script src="/js/jquery1.9.0.min.js"
+    script src="/js/bootstrap.min.js"
+    script src="/js/holder.js"
+    javascript:
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-36613724-1']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+  body
+    .navbar-wrapper
+      .container
+        .yamm.navbar.navbar-inverse.navbar-static-top
+          .container
+            .navbar-header
+              button.navbar-toggle type="button" data-toggle="collapse" data-target=".navbar-collapse"
+                span.icon-bar
+                span.icon-bar
+                span.icon-bar
+              a.navbar-brand.inline href="/"
+                strong Forest Glade FC
+            .navbar-collapse.collapse
+              ul.nav.navbar-nav
+                li class="#{(@active == :home ? 'active' : '')}"
+                  a href="/" Home
+
+                == slim :team_menu
+
+                li.dropdown
+                  a.dropdown-toggle href="#" data-toggle="dropdown" Documents <b class="caret"></b>
+                  ul.dropdown-menu
+                    li
+                      a href="/docs/FGFCClubConstitution.pdf" Club Constitution
+                    li
+                      a href="/docs/FGFC Safeguarding.pdf" Safegaurding Children
+                    li
+                      a href="/docs/FGFC Anti-Bullying.pdf" Anti-Bullying
+                    li
+                      a href="/docs/FGFC Equality Policy.pdf" Equality Policy
+                li class="#{(@active == :honours ? 'active' : '')}"
+                  a href="/honours" Club Honours
+                li class="#{(@active == :history ? 'active' : '')}"
+                  a href="/history" Club History
+                li class="#{(@active == :find_us ? 'active' : '')}"
+                  a href="/findus" Find Us
+                li class="#{(@active == :contact ? 'active' : '')}"
+                  a href="/contact" Contact Us
+                li.pull-right
+                  img src="/images/fgfc_logo_small.png"
+    == yield
+
+    .container
+      .col-md-12
+        hr.featurette-divider
+        footer
+          p.pull-right
+            a href="#" Back to top
+          p &copy; 2013 Forest Glade FC
+
