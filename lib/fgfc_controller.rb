@@ -18,17 +18,9 @@ class FgfcController < Sinatra::Base
   end
 
   get '/' do
-    erb :down, :layout => false
-  end
-
-  get '/test' do
     @active = :home
     @news = FGFC::News.get_news
     slim :home
-  end
-
-  get '/zzz' do
-    erb :home, layout: :layout22
   end
 
   get '/team/:team' do
