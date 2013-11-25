@@ -1,0 +1,18 @@
+== slim :carousel
+.container
+  .col-md-12
+    h1 Club News
+  - @news.each_with_index do |news_item, index|
+    - if index % 3 == 0
+      .container
+    .col-md-4
+      h3 class="#{news_item[:type]}" #{news_item[:heading]}
+      p == news_item[:para1]
+      p == news_item[:para2]
+      p == news_item[:para3]
+
+
+javascript:
+  $('.carousel').carousel({
+    interval: 8000
+  });
