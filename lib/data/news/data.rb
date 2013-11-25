@@ -61,7 +61,7 @@ module FGFC
 
     @news << {
         type: 'information',
-        heading: "2014 Club Presentaion Day",
+        heading: "2014 Club Presentation Day",
         para1: 'The 2014 club presentation day will be on Saturday 7th June.',
         para2: '',
         para3: 'Further information on the days planned events will be published nearer the date'
