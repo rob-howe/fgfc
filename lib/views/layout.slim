@@ -49,7 +49,7 @@ html
                 | Forest Glade FC
             .navbar-collapse.collapse
               ul.nav.navbar-nav
-                li class="#{(@active == :home ? 'active' : '')}"
+                li.hidden-xs.hidden-sm.hidden-md class="#{(@active == :home ? 'active' : '')}"
                   a href="/" Home
 
                 == slim :team_menu
@@ -73,7 +73,7 @@ html
                   a href="/findus" Find Us
                 li class="#{(@active == :contact ? 'active' : '')}"
                   a href="/contact" Contact Us
-                li.pull-right
+                li.hidden-xs.hidden-sm.hidden-md.pull-right
                   img src="/images/fgfc_logo_small.png"
     == yield
 

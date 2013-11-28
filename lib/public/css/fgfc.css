@@ -75,3 +75,9 @@ p {
     height: 280px;
     width: 400px;
 }
+
+.team-menu-item {
+    display:inline-block;
+    margin-right:20px;
+    vertical-align: top;
+}

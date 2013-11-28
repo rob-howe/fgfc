@@ -3,48 +3,45 @@ li.dropdown.yamm-fullwidth
   ul.dropdown-menu
     li
       .yamm-content
-        .container
+        .row
           .col-md-8
             h4 Mini Soccer
-          .col-md-2
-            h4 Girls Football
-          .col-md-2
-            h4 Adult Football
-        .container
-          - @mini_soccer.each do |key, value|
-            .col-md-1
-              div
+            - @mini_soccer.each do |key, value|
+              div.team-menu-item
                 strong #{key.to_s.upcase}
                 - value.each do |team|
                   div
                     a href="/team/#{key.to_s}#{team.to_s}" #{team.to_s.capitalize}
           .col-md-2
-            p &nbsp;
-          .col-md-2
+            h4 Girls Football
             - @girls_football.each do |team|
               div
                 a href="/team/#{team.to_s}girls" #{team.to_s.capitalize}
           .col-md-2
+            h4 Adult Football
             - @adult_football.each do |team|
               div
                 a href="/team/#{team.to_s}" #{team.to_s.capitalize}
         .container
+          .col-md-2
+            p &nbsp;
+          .col-md-2
+        .row
           .col-md-10
             h4 Youth Football
-          .col-md-2
-            h4 Baseball
-        .container
-          - @youth_football.each do |key, value|
-            .col-md-1
-              div
+            - @youth_football.each do |key, value|
+              div.team-menu-item
                 strong #{key.to_s.upcase}
                 - value.each do |team|
                   div
                     a href="/team/#{key.to_s}#{team.to_s}" #{team.to_s.capitalize}
-          .col-md-3
-            p &nbsp;
           .col-md-2
+            h4 Baseball
             div
               a href="http://www.essexredbacks.com/little-league/broncos/" target="_blank" U14 Broncos
             div
               a href="http://www.essexredbacks.com/little-league/pony/" target="_blank" U17 Ponys
+        .container
+          .col-md-3
+            p &nbsp;
+          .col-md-2
