@@ -30,7 +30,7 @@ module FGFC
     @news << {
         type: 'committee',
         heading: 'Help Needed on The Committee',
-        para1: "There are one or two vacancies one the club's committee.",
+        para1: "There are one or two vacancies on the club's committee.",
         para2: "Contact any member of the committee or your manager for details.",
         para3: ''
     }
@@ -38,7 +38,7 @@ module FGFC
     @news << {
         type: 'committee',
         heading: 'Next Committee Meeting',
-        para1: 'The committee meet every month, the next on is scheduled for December.',
+        para1: 'The committee meet every month, the next one is scheduled for December.',
         para2: "If there are any issues you'd like raised please contact the club secretary at sereatry@forestgladefc.co.uk or contact your team manager.",
         para3: ''
     }
