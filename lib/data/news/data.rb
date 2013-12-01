@@ -30,7 +30,7 @@ module FGFC
     @news << {
         type: 'committee',
         heading: 'Help Needed on The Committee',
-        para1: "There are one or two vacancies on the club's committee.",
+        para1: "There are one or two vacancies one the club's committee.",
         para2: "Contact any member of the committee or your manager for details.",
         para3: ''
     }
