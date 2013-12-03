@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22f1ae15-8159-4826-b5bf-91437d87f3e5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/views/carousel.slim" afterPath="$PROJECT_DIR$/lib/views/carousel.slim" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/views/layout.slim" afterPath="$PROJECT_DIR$/lib/views/layout.slim" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="6dcd82c9-60a9-44ea-bece-83eddb3eae2c" name="New changelist" comment="New changelist" />
@@ -73,7 +71,7 @@
     <file path="$PROJECT_DIR$/../fgfc-new/lib/data/team_data/seniors.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385075037722" ignored="false" />
     <file path="/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385240592243" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385242864000" ignored="false" />
-    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385935547325" ignored="false" />
+    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1386096204685" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/layout.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663507223" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/home.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663610857" ignored="false" />
     <file path="/home.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663608201" ignored="false" />
@@ -85,17 +83,20 @@
     <file path="$PROJECT_DIR$/../fgfc-admin/lib/application.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663807189" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/error.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663851428" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/home.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385710196736" ignored="false" />
-    <file path="$PROJECT_DIR$/../fgfc-admin/views/layout.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385757214230" ignored="false" />
+    <file path="$PROJECT_DIR$/../fgfc-admin/views/layout.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1386109316103" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/login.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385749124797" ignored="false" />
     <file path="/login.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385711398300" ignored="false" />
-    <file path="$PROJECT_DIR$/../fgfc-admin/views/list_news_items.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385757848469" ignored="false" />
-    <file path="/list_news_items.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385749889846" ignored="false" />
+    <file path="$PROJECT_DIR$/../fgfc-admin/views/list_news_items.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1386097289334" ignored="false" />
+    <file path="/list_news_items.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1386096824531" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/Gemfile.lock" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385719611177" ignored="false" />
     <file path="/Gemfile.lock" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385713813845" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/_news_item.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385759242082" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/news_item.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385760645293" ignored="false" />
     <file path="/_news_item.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385759239897" ignored="false" />
     <file path="/news_item.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385760628365" ignored="false" />
+    <file path="$PROJECT_DIR$/../fgfc-admin/public/css/admin.css" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1386096868898" ignored="false" />
+    <file path="$PROJECT_DIR$/../fgfc-admin/lib/schema.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1386109499122" ignored="false" />
+    <file path="/schema.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1386109499122" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,10 +155,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="home.slim" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="home.slim" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/views/home.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="16" selection-start="94" selection-end="94" vertical-scroll-proportion="-2.8387096">
+            <state line="4" column="21" selection-start="94" selection-end="94" vertical-scroll-proportion="0.18181819">
               <folding />
             </state>
           </provider>
@@ -226,10 +227,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="carousel.slim" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="carousel.slim" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/views/carousel.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="20" selection-start="2155" selection-end="2155" vertical-scroll-proportion="0.3460722">
+            <state line="45" column="20" selection-start="2155" selection-end="2155" vertical-scroll-proportion="-5.2580647">
               <folding />
             </state>
           </provider>
@@ -376,6 +377,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fgfc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fgfc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -790,7 +813,11 @@
       <created>1385935551637</created>
       <updated>1385935551637</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="touched up for tablets and mobiles">
+      <created>1386096210090</created>
+      <updated>1386096210090</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -862,7 +889,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated news" />
+    <option name="LAST_COMMIT_MESSAGE" value="touched up for tablets and mobiles" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -883,6 +910,7 @@
     <MESSAGE value="updated typo in news" />
     <MESSAGE value="modified menu to for responsiveness" />
     <MESSAGE value="updated news" />
+    <MESSAGE value="touched up for tablets and mobiles" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -921,13 +949,6 @@
     <entry file="file://$PROJECT_DIR$/lib/views/contact.slim">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="15" vertical-scroll-proportion="-0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/views/home.slim">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="16" selection-start="94" selection-end="94" vertical-scroll-proportion="-2.8387096">
           <folding />
         </state>
       </provider>
@@ -997,7 +1018,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/views/carousel.slim">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="20" selection-start="2155" selection-end="2155" vertical-scroll-proportion="0.3460722">
+        <state line="45" column="20" selection-start="2155" selection-end="2155" vertical-scroll-proportion="-5.2580647">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/views/home.slim">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="21" selection-start="94" selection-end="94" vertical-scroll-proportion="0.18181819">
           <folding />
         </state>
       </provider>
