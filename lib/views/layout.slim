@@ -49,7 +49,7 @@ html
                 | Forest Glade FC
             .navbar-collapse.collapse
               ul.nav.navbar-nav
-                li.hidden-xs.hidden-sm.hidden-md class="#{(@active == :home ? 'active' : '')}"
+                li class="#{(@active == :home ? 'active' : '')}"
                   a href="/" Home
 
                 == slim :team_menu
@@ -65,16 +65,24 @@ html
                       a href="/docs/FGFC Anti-Bullying.pdf" Anti-Bullying
                     li
                       a href="/docs/FGFC Equality Policy.pdf" Equality Policy
-                li class="#{(@active == :honours ? 'active' : '')}"
+                li.dropdown.hidden-lg
+                  a.dropdown-toggle href="#" data-toggle="dropdown" Club <b class="caret"></b>
+                  ul.dropdown-menu
+                    li
+                      a href="/contact" Contacts
+                    li
+                      a href="/honours" Club Honours
+                    li
+                      a href="/history" Club History
+                li.hidden-md.hidden-sm.hidden-xs class="#{(@active == :honours ? 'active' : '')}"
                   a href="/honours" Club Honours
-                li class="#{(@active == :history ? 'active' : '')}"
+                li.hidden-md.hidden-sm.hidden-xs class="#{(@active == :history ? 'active' : '')}"
                   a href="/history" Club History
-                li class="#{(@active == :find_us ? 'active' : '')}"
+                li.hidden-md.hidden-sm.hidden-xs class="#{(@active == :find_us ? 'active' : '')}"
                   a href="/findus" Find Us
-                li class="#{(@active == :contact ? 'active' : '')}"
+                li.hidden-md.hidden-sm.hidden-xs class="#{(@active == :contact ? 'active' : '')}"
                   a href="/contact" Contact Us
-                li.hidden-xs.hidden-sm.hidden-md.pull-right
-                  img src="/images/fgfc_logo_small.png"
+              img.pull-right.hidden-sm.hidden-xs src="/images/fgfc_logo_small.png"
     == yield
 
     .container
