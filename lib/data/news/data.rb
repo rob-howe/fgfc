@@ -4,30 +4,6 @@ module FGFC
     @news = []
 
     @news << {
-        type: 'fund_raising',
-        heading: '2013 Christmas Party',
-        para1: 'Our next fund raising event is the Christmas party at Partyman on 15 December 7pm - 9pm.',
-        para2: 'Tickets are &#163;10 per child and includes a free gift.',
-        para3: 'Tickets can be bought from the club house on Saturday mornings or contact your team manager.'
-    }
-
-    #@news << {
-    #    type: 'important',
-    #    heading: 'This is important',
-    #    para1: 'Please note this message is important',
-    #    para2: 'Can you contact Fredd thanks',
-    #    para3: ''
-    #}
-
-    #@news << {
-    #    type: 'information',
-    #    heading: 'This is general information',
-    #    para1: 'A short message.',
-    #    para2: '',
-    #    para3: ''
-    #}
-
-    @news << {
         type: 'committee',
         heading: 'Help Needed on The Committee',
         para1: "There are one or two vacancies on the club's committee.",
@@ -67,6 +43,13 @@ module FGFC
         para3: 'Further information on the days planned events will be published nearer the date'
     }
 
+    @news << {
+        type: 'empty',
+        heading: '',
+        para1: '',
+        para2: '',
+        para3: ''
+    }
 
     def self.get_news
       @news
