@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22f1ae15-8159-4826-b5bf-91437d87f3e5" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/views/layout.slim" afterPath="$PROJECT_DIR$/lib/views/layout.slim" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="6dcd82c9-60a9-44ea-bece-83eddb3eae2c" name="New changelist" comment="New changelist" />
@@ -48,7 +49,7 @@
     <file path="/teams.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1384933374091" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/teams.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1384933374525" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/data/team_data/u13blue.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1384933241736" ignored="false" />
-    <file path="/layout.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1386059318117" ignored="false" />
+    <file path="/layout.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1389706435024" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/layout.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385419144854" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/data/team_data/u10.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1384886383315" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/players_conduct.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385243046997" ignored="false" />
@@ -62,7 +63,7 @@
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/home.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385242687174" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/carousel.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385243005749" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/public/css/yamm.css" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1384723599549" ignored="false" />
-    <file path="/a.dummy" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385757906842" ignored="false" />
+    <file path="/a.dummy" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1389044156647" ignored="false" />
     <file path="/team_data.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1384723406919" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/team_data.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1384723408912" ignored="false" />
     <file path="/team_menu.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385661850070" ignored="false" />
@@ -71,7 +72,7 @@
     <file path="$PROJECT_DIR$/../fgfc-new/lib/data/team_data/seniors.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385075037722" ignored="false" />
     <file path="/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385240592243" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385242864000" ignored="false" />
-    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1386096204685" ignored="false" />
+    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1389736065727" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/layout.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663507223" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/home.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663610857" ignored="false" />
     <file path="/home.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663608201" ignored="false" />
@@ -83,20 +84,31 @@
     <file path="$PROJECT_DIR$/../fgfc-admin/lib/application.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663807189" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/error.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663851428" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/home.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385710196736" ignored="false" />
-    <file path="$PROJECT_DIR$/../fgfc-admin/views/layout.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1386109316103" ignored="false" />
-    <file path="$PROJECT_DIR$/../fgfc-admin/views/login.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385749124797" ignored="false" />
+    <file path="$PROJECT_DIR$/../fgfc-admin/views/layout.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1386839512365" ignored="false" />
+    <file path="$PROJECT_DIR$/../fgfc-admin/views/login.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1386837898075" ignored="false" />
     <file path="/login.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385711398300" ignored="false" />
-    <file path="$PROJECT_DIR$/../fgfc-admin/views/list_news_items.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1386097289334" ignored="false" />
-    <file path="/list_news_items.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1386096824531" ignored="false" />
+    <file path="$PROJECT_DIR$/../fgfc-admin/views/list_news_items.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1386111814786" ignored="false" />
+    <file path="/list_news_items.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1386111813796" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/Gemfile.lock" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385719611177" ignored="false" />
     <file path="/Gemfile.lock" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385713813845" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/_news_item.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385759242082" ignored="false" />
-    <file path="$PROJECT_DIR$/../fgfc-admin/views/news_item.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385760645293" ignored="false" />
+    <file path="$PROJECT_DIR$/../fgfc-admin/views/news_item.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1386838904472" ignored="false" />
     <file path="/_news_item.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385759239897" ignored="false" />
-    <file path="/news_item.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385760628365" ignored="false" />
-    <file path="$PROJECT_DIR$/../fgfc-admin/public/css/admin.css" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1386096868898" ignored="false" />
+    <file path="/news_item.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1386838896104" ignored="false" />
+    <file path="$PROJECT_DIR$/../fgfc-admin/public/css/admin.css" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1386111391898" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/lib/schema.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1386109499122" ignored="false" />
     <file path="/schema.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1386109499122" ignored="false" />
+    <file path="/admin.css" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1386111383957" ignored="false" />
+    <file path="$PROJECT_DIR$/../fgfc-fives/config.ru" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1389044046090" ignored="false" />
+    <file path="/config.ru" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1389044147807" ignored="false" />
+    <file path="$PROJECT_DIR$/../fg5s-admin/config.ru" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1389044147807" ignored="false" />
+    <file path="/team.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1389342841144" ignored="false" />
+    <file path="$PROJECT_DIR$/../fgfc-fives/lib/views/team.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1389342842106" ignored="false" />
+    <file path="$PROJECT_DIR$/../fgfc-fives/lib/fives_controller.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1389394369159" ignored="false" />
+    <file path="/fives_controller.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1389394369159" ignored="false" />
+    <file path="$PROJECT_DIR$/../fgfc-fives/lib/views/home.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1389394491907" ignored="false" />
+    <file path="$PROJECT_DIR$/../fgfc-fives/lib/views/layout.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1389394506346" ignored="false" />
+    <file path="/home.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1389394477900" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,10 +167,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="home.slim" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="home.slim" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/views/home.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="21" selection-start="94" selection-end="94" vertical-scroll-proportion="0.18181819">
+            <state line="9" column="16" selection-start="214" selection-end="214" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -167,7 +179,7 @@
       <file leaf-file-name="team_menu.slim" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/views/team_menu.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="19" selection-start="185" selection-end="185" vertical-scroll-proportion="-4.2580647">
+            <state line="6" column="19" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -182,11 +194,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.slim" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="layout.slim" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/views/layout.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="84" column="48" selection-start="3683" selection-end="3683" vertical-scroll-proportion="-7.806452">
-              <folding />
+            <state line="6" column="55" selection-start="238" selection-end="238" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1389736768595" expanded="true" signature="1487:3722" placeholder=".navbar-wrapper" />
+                <marker date="1389736768595" expanded="true" signature="1509:3722" placeholder=".container" />
+                <marker date="1389736768595" expanded="true" signature="1528:3722" placeholder=".yamm.navbar.navbar-inverse.navbar-static-top" />
+                <marker date="1389736768595" expanded="true" signature="1584:3722" placeholder=".container" />
+                <marker date="1389736768595" expanded="true" signature="1607:1893" placeholder=".navbar-header" />
+                <marker date="1389736768595" expanded="true" signature="1906:3722" placeholder=".navbar-collapse.collapse" />
+                <marker date="1389736768595" expanded="true" signature="3741:3913" placeholder=".container" />
+                <marker date="1389736768595" expanded="true" signature="3758:3913" placeholder=".col-md-12" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -194,7 +215,7 @@
       <file leaf-file-name="data.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/data/news/data.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="55" selection-start="1093" selection-end="1093" vertical-scroll-proportion="0.0">
+            <state line="47" column="23" selection-start="1550" selection-end="1550" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -221,7 +242,7 @@
       <file leaf-file-name="contact.slim" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/views/contact.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="15" vertical-scroll-proportion="-0.0">
+            <state line="0" column="0" selection-start="0" selection-end="15" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -230,7 +251,7 @@
       <file leaf-file-name="carousel.slim" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/views/carousel.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="20" selection-start="2155" selection-end="2155" vertical-scroll-proportion="-5.2580647">
+            <state line="46" column="28" selection-start="2243" selection-end="2243" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -239,7 +260,7 @@
       <file leaf-file-name="fgfc.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/public/css/fgfc.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="33" column="50" selection-start="678" selection-end="678" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -272,17 +293,16 @@
         <option value="$PROJECT_DIR$/lib/public/css/fgfc.css" />
         <option value="$PROJECT_DIR$/lib/views/team_menu.slim" />
         <option value="$PROJECT_DIR$/lib/public/css/yamm.css" />
+        <option value="$PROJECT_DIR$/lib/views/carousel.slim" />
         <option value="$PROJECT_DIR$/lib/data/news/data.rb" />
         <option value="$PROJECT_DIR$/lib/views/layout.slim" />
-        <option value="$PROJECT_DIR$/lib/views/carousel.slim" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
     <option name="y" value="27" />
-    <option name="width" value="1615" />
-    <option name="height" value="1023" />
+    <option name="width" value="1669" />
+    <option name="height" value="971" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -312,6 +332,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -398,7 +419,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -469,7 +490,6 @@
       <pane id="PackagesPane">
         <subPane />
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -640,6 +660,13 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
       <method />
     </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -659,13 +686,6 @@
       </option>
       <envs />
       <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
-      <JSDebuggerConfigurationSettings>
-        <option name="engineId" value="embedded" />
-        <option name="fileUrl" />
-      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <configuration default="true" type="RackRunConfigurationType" factoryName="Rack">
@@ -817,11 +837,27 @@
       <created>1386096210090</created>
       <updated>1386096210090</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="touched up for tablets and mobiles">
+      <created>1386109663594</created>
+      <updated>1386109663594</updated>
+    </task>
+    <task id="LOCAL-00013" summary="updated news items removed Xmas party">
+      <created>1389045892983</created>
+      <updated>1389045892983</updated>
+    </task>
+    <task id="LOCAL-00014" summary="attempt at fixing IE8">
+      <created>1389735265611</created>
+      <updated>1389735265611</updated>
+    </task>
+    <task id="LOCAL-00015" summary="attempt at fixing IE8">
+      <created>1389736101633</created>
+      <updated>1389736101633</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="27" width="1615" height="1023" extended-state="0" />
+    <frame x="0" y="27" width="1669" height="971" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23453909" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -841,11 +877,11 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24758843" sideWeight="0.67211205" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32788798" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23927906" sideWeight="0.65217394" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3478261" sideWeight="0.97553325" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -889,7 +925,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="touched up for tablets and mobiles" />
+    <option name="LAST_COMMIT_MESSAGE" value="attempt at fixing IE8" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -911,6 +947,8 @@
     <MESSAGE value="modified menu to for responsiveness" />
     <MESSAGE value="updated news" />
     <MESSAGE value="touched up for tablets and mobiles" />
+    <MESSAGE value="updated news items removed Xmas party" />
+    <MESSAGE value="attempt at fixing IE8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -927,9 +965,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.ru">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="12" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="6" column="12" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/fgfc_controller.rb">
@@ -955,16 +991,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/public/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="5098" selection-start="5318" selection-end="5318" vertical-scroll-proportion="0.35059762">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/public/css/fgfc.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="8" column="5098" selection-start="5318" selection-end="5318" vertical-scroll-proportion="0.35059762" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/public/css/yamm.css">
@@ -983,9 +1010,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.rvmrc">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="39" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="1" column="39" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile.lock">
@@ -995,38 +1020,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/data/news/data.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="55" selection-start="1093" selection-end="1093" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/views/team_menu.slim">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="19" selection-start="185" selection-end="185" vertical-scroll-proportion="-4.2580647">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/views/layout.slim">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="48" selection-start="3683" selection-end="3683" vertical-scroll-proportion="-7.806452">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/views/carousel.slim">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="20" selection-start="2155" selection-end="2155" vertical-scroll-proportion="-5.2580647">
+        <state line="6" column="19" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/views/home.slim">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="21" selection-start="94" selection-end="94" vertical-scroll-proportion="0.18181819">
+        <state line="9" column="16" selection-start="214" selection-end="214" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/views/carousel.slim">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="28" selection-start="2243" selection-end="2243" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/data/news/data.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="23" selection-start="1550" selection-end="1550" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/public/css/fgfc.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="50" selection-start="678" selection-end="678" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/views/layout.slim">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="55" selection-start="238" selection-end="238" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1389736768595" expanded="true" signature="1487:3722" placeholder=".navbar-wrapper" />
+            <marker date="1389736768595" expanded="true" signature="1509:3722" placeholder=".container" />
+            <marker date="1389736768595" expanded="true" signature="1528:3722" placeholder=".yamm.navbar.navbar-inverse.navbar-static-top" />
+            <marker date="1389736768595" expanded="true" signature="1584:3722" placeholder=".container" />
+            <marker date="1389736768595" expanded="true" signature="1607:1893" placeholder=".navbar-header" />
+            <marker date="1389736768595" expanded="true" signature="1906:3722" placeholder=".navbar-collapse.collapse" />
+            <marker date="1389736768595" expanded="true" signature="3741:3913" placeholder=".container" />
+            <marker date="1389736768595" expanded="true" signature="3758:3913" placeholder=".col-md-12" />
+          </folding>
         </state>
       </provider>
     </entry>
