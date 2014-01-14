@@ -63,7 +63,7 @@
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/home.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385242687174" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/carousel.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385243005749" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/public/css/yamm.css" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1384723599549" ignored="false" />
-    <file path="/a.dummy" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1389044156647" ignored="false" />
+    <file path="/a.dummy" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1389737288368" ignored="false" />
     <file path="/team_data.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1384723406919" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/team_data.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1384723408912" ignored="false" />
     <file path="/team_menu.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385661850070" ignored="false" />
@@ -72,7 +72,7 @@
     <file path="$PROJECT_DIR$/../fgfc-new/lib/data/team_data/seniors.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385075037722" ignored="false" />
     <file path="/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385240592243" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385242864000" ignored="false" />
-    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1389736065727" ignored="false" />
+    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1389736770002" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/layout.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663507223" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/home.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663610857" ignored="false" />
     <file path="/home.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663608201" ignored="false" />
@@ -197,17 +197,27 @@
       <file leaf-file-name="layout.slim" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/views/layout.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="55" selection-start="238" selection-end="238" vertical-scroll-proportion="0.0">
+            <state line="23" column="0" selection-start="638" selection-end="638" vertical-scroll-proportion="0.5448276">
               <folding>
-                <marker date="1389736768595" expanded="true" signature="1487:3722" placeholder=".navbar-wrapper" />
-                <marker date="1389736768595" expanded="true" signature="1509:3722" placeholder=".container" />
-                <marker date="1389736768595" expanded="true" signature="1528:3722" placeholder=".yamm.navbar.navbar-inverse.navbar-static-top" />
-                <marker date="1389736768595" expanded="true" signature="1584:3722" placeholder=".container" />
-                <marker date="1389736768595" expanded="true" signature="1607:1893" placeholder=".navbar-header" />
-                <marker date="1389736768595" expanded="true" signature="1906:3722" placeholder=".navbar-collapse.collapse" />
-                <marker date="1389736768595" expanded="true" signature="3741:3913" placeholder=".container" />
-                <marker date="1389736768595" expanded="true" signature="3758:3913" placeholder=".col-md-12" />
+                <marker date="1389737709491" expanded="true" signature="642:998" placeholder="| &lt;!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries --&gt;" />
+                <marker date="1389737709491" expanded="true" signature="1491:3726" placeholder=".navbar-wrapper" />
+                <marker date="1389737709491" expanded="true" signature="1513:3726" placeholder=".container" />
+                <marker date="1389737709491" expanded="true" signature="1532:3726" placeholder=".yamm.navbar.navbar-inverse.navbar-static-top" />
+                <marker date="1389737709491" expanded="true" signature="1588:3726" placeholder=".container" />
+                <marker date="1389737709491" expanded="true" signature="1611:1897" placeholder=".navbar-header" />
+                <marker date="1389737709491" expanded="true" signature="1910:3726" placeholder=".navbar-collapse.collapse" />
+                <marker date="1389737709491" expanded="true" signature="3745:3917" placeholder=".container" />
+                <marker date="1389737709491" expanded="true" signature="3762:3917" placeholder=".col-md-12" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ie8.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/public/css/ie8.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -234,15 +244,6 @@
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
             <state line="12" column="0" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact.slim" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/views/contact.slim">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="15" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -853,7 +854,11 @@
       <created>1389736101633</created>
       <updated>1389736101633</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="attempt at fixing IE8">
+      <created>1389736781399</created>
+      <updated>1389736781399</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -863,6 +868,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23453909" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32919255" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -877,13 +883,12 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23927906" sideWeight="0.65217394" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3478261" sideWeight="0.97553325" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23927906" sideWeight="0.6708075" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3478261" sideWeight="0.97553325" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -958,11 +963,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/fgfc_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="0" selection-start="850" selection-end="850" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config.ru">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="12" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0" />
@@ -1055,18 +1055,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/public/css/ie8.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/views/layout.slim">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="55" selection-start="238" selection-end="238" vertical-scroll-proportion="0.0">
+        <state line="23" column="0" selection-start="638" selection-end="638" vertical-scroll-proportion="0.5448276">
           <folding>
-            <marker date="1389736768595" expanded="true" signature="1487:3722" placeholder=".navbar-wrapper" />
-            <marker date="1389736768595" expanded="true" signature="1509:3722" placeholder=".container" />
-            <marker date="1389736768595" expanded="true" signature="1528:3722" placeholder=".yamm.navbar.navbar-inverse.navbar-static-top" />
-            <marker date="1389736768595" expanded="true" signature="1584:3722" placeholder=".container" />
-            <marker date="1389736768595" expanded="true" signature="1607:1893" placeholder=".navbar-header" />
-            <marker date="1389736768595" expanded="true" signature="1906:3722" placeholder=".navbar-collapse.collapse" />
-            <marker date="1389736768595" expanded="true" signature="3741:3913" placeholder=".container" />
-            <marker date="1389736768595" expanded="true" signature="3758:3913" placeholder=".col-md-12" />
+            <marker date="1389737709491" expanded="true" signature="642:998" placeholder="| &lt;!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries --&gt;" />
+            <marker date="1389737709491" expanded="true" signature="1491:3726" placeholder=".navbar-wrapper" />
+            <marker date="1389737709491" expanded="true" signature="1513:3726" placeholder=".container" />
+            <marker date="1389737709491" expanded="true" signature="1532:3726" placeholder=".yamm.navbar.navbar-inverse.navbar-static-top" />
+            <marker date="1389737709491" expanded="true" signature="1588:3726" placeholder=".container" />
+            <marker date="1389737709491" expanded="true" signature="1611:1897" placeholder=".navbar-header" />
+            <marker date="1389737709491" expanded="true" signature="1910:3726" placeholder=".navbar-collapse.collapse" />
+            <marker date="1389737709491" expanded="true" signature="3745:3917" placeholder=".container" />
+            <marker date="1389737709491" expanded="true" signature="3762:3917" placeholder=".col-md-12" />
           </folding>
         </state>
       </provider>
