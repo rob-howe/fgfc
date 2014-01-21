@@ -4,6 +4,14 @@ module FGFC
     @news = []
 
     @news << {
+        type: 'information',
+        heading: "2014 Forest Glade 5's",
+        para1: 'The 2014 Forest glade Fives will take place on Saturday 24th and Sunday 25th May 2014.',
+        para2: 'Registration is now open.',
+        para3: 'Please visit <a href="http://www.thefg5s.co.uk">www.theFG5s.co.uk</a> for more information.'
+    }
+
+    @news << {
         type: 'committee',
         heading: 'Help Needed on The Committee',
         para1: "There are one or two vacancies on the club's committee.",
@@ -25,14 +33,6 @@ module FGFC
         para1: 'Forest Glade girls are looking for new players in school years 8 & 9.',
         para2: "If interested please contact Laura on 07817 542812",
         para3: ''
-    }
-
-    @news << {
-        type: 'information',
-        heading: "2014 Forest Glade 5's",
-        para1: 'The 2014 Forest glade Fives will take place on Saturday 24th and Sunday 25th May 2014.',
-        para2: '',
-        para3: 'Registration will open soon.'
     }
 
     @news << {
