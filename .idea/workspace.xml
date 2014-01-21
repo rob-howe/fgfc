@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22f1ae15-8159-4826-b5bf-91437d87f3e5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/fives/fg5s-small-logo-no-year.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/js/html5shiv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/public/js/respond.min.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/views/carousel.slim" afterPath="$PROJECT_DIR$/lib/views/carousel.slim" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/data/news/data.rb" afterPath="$PROJECT_DIR$/lib/data/news/data.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/public/css/fgfc.css" afterPath="$PROJECT_DIR$/lib/public/css/fgfc.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/views/home.slim" afterPath="$PROJECT_DIR$/lib/views/home.slim" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="6dcd82c9-60a9-44ea-bece-83eddb3eae2c" name="New changelist" comment="New changelist" />
@@ -24,10 +30,10 @@
     <file path="/u8.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385239825586" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/data/team_data/u8.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385240041335" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/data/team_data/u7.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385239547181" ignored="false" />
-    <file path="/carousel.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1386060602278" ignored="false" />
+    <file path="/carousel.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1390344669242" ignored="false" />
     <file path="/down.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385059232716" ignored="false" />
     <file path="/fgfc_controller.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385058769805" ignored="false" />
-    <file path="/data.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1390340751528" ignored="false" />
+    <file path="/data.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1390344772088" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/data/news/data.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385417609178" ignored="false" />
     <file path="/history.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1384985249526" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/history.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385243027493" ignored="false" />
@@ -49,7 +55,7 @@
     <file path="/teams.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1384933374091" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/teams.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1384933374525" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/data/team_data/u13blue.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1384933241736" ignored="false" />
-    <file path="/layout.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1390339663584" ignored="false" />
+    <file path="/layout.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1389706435024" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/layout.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385419144854" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/data/team_data/u10.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1384886383315" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/players_conduct.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385243046997" ignored="false" />
@@ -57,7 +63,7 @@
     <file path="$PROJECT_DIR$/../fgfc-new/lib/application.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385246117293" ignored="false" />
     <file path="/managers_conduct.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1384885884802" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/managers_conduct.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385243045799" ignored="false" />
-    <file path="/fgfc.css" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385661749829" ignored="false" />
+    <file path="/fgfc.css" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1390343899949" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/public/css/fgfc.css" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385419124776" ignored="false" />
     <file path="/home.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385710159002" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/home.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385242687174" ignored="false" />
@@ -72,7 +78,7 @@
     <file path="$PROJECT_DIR$/../fgfc-new/lib/data/team_data/seniors.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385075037722" ignored="false" />
     <file path="/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385240592243" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385242864000" ignored="false" />
-    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1390340621611" ignored="false" />
+    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1390342989971" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/layout.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663507223" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/home.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663610857" ignored="false" />
     <file path="/home.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663608201" ignored="false" />
@@ -106,9 +112,9 @@
     <file path="$PROJECT_DIR$/../fgfc-fives/lib/views/team.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1390162303795" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-fives/lib/fives_controller.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1389394369159" ignored="false" />
     <file path="/fives_controller.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1389394369159" ignored="false" />
-    <file path="$PROJECT_DIR$/../fgfc-fives/lib/views/home.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1390337679955" ignored="false" />
+    <file path="$PROJECT_DIR$/../fgfc-fives/lib/views/home.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1390342990591" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-fives/lib/views/layout.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1390163782480" ignored="false" />
-    <file path="/home.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1390337674955" ignored="false" />
+    <file path="/home.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1390162706232" ignored="false" />
     <file path="$PROJECT_DIR$/../fg5s-admin/lib/fives_controller.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1390161341503" ignored="false" />
     <file path="$PROJECT_DIR$/../fg5s-admin/lib/views/registered.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1389825070213" ignored="false" />
     <file path="$PROJECT_DIR$/../fg5s-admin/lib/views/layout_fgfc.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1389825070213" ignored="false" />
@@ -116,9 +122,6 @@
     <file path="$PROJECT_DIR$/../fg5s-admin/lib/views/layout.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1390163759679" ignored="false" />
     <file path="$PROJECT_DIR$/../mail_sender/lib/send_mail.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1390168345669" ignored="false" />
     <file path="$PROJECT_DIR$/../mail_sender/lib/email_templates/flyer.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1390168454230" ignored="false" />
-    <file path="$PROJECT_DIR$/../fg5s-admin/lib/views/register_form.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1390255144601" ignored="false" />
-    <file path="/register_form.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1390255144601" ignored="false" />
-    <file path="$PROJECT_DIR$/../fg5s-admin/lib/routes/admin.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1390256676621" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +136,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -168,6 +170,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -180,7 +183,7 @@
       <file leaf-file-name="home.slim" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/views/home.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="16" selection-start="214" selection-end="214" vertical-scroll-proportion="-6.387097">
+            <state line="17" column="16" selection-start="403" selection-end="403" vertical-scroll-proportion="-12.064516">
               <folding />
             </state>
           </provider>
@@ -195,21 +198,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="yamm.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/public/css/yamm.css">
+      <file leaf-file-name="layout.slim" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/views/layout.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="17" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
+            <state line="10" column="28" selection-start="297" selection-end="297" vertical-scroll-proportion="50.096775">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.slim" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/views/layout.slim">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="30" selection-start="637" selection-end="637" vertical-scroll-proportion="-4.967742">
-              <folding />
-            </state>
+      <file leaf-file-name="fg5s-home-logo.png" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/public/images/fg5s-home-logo.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -222,37 +223,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="data.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="data.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/data/news/data.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="40" selection-start="169" selection-end="169" vertical-scroll-proportion="0.3958869">
+            <state line="8" column="43" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile.lock" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile.lock">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="131" column="10" selection-start="3070" selection-end="3070" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="carousel.slim" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="carousel.slim" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/views/carousel.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="28" selection-start="2243" selection-end="2243" vertical-scroll-proportion="-32.64516">
+            <state line="38" column="66" selection-start="1727" selection-end="1727" vertical-scroll-proportion="-1.4581006">
               <folding />
             </state>
           </provider>
@@ -261,8 +244,28 @@
       <file leaf-file-name="fgfc.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/public/css/fgfc.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="33" selection-start="456" selection-end="456" vertical-scroll-proportion="0.0">
+            <state line="74" column="0" selection-start="1319" selection-end="1319" vertical-scroll-proportion="0.0">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fgfc_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/fgfc_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="0" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="team.slim" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/views/team.slim">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding>
+                <marker date="1385420140984" expanded="true" signature="2932:3006" placeholder="unless ... end" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -290,12 +293,12 @@
         <option value="$PROJECT_DIR$/.rvmrc" />
         <option value="$PROJECT_DIR$/lib/public/js/responsive.min.js" />
         <option value="$PROJECT_DIR$/lib/fgfc_controller.rb" />
-        <option value="$PROJECT_DIR$/lib/views/home.slim" />
-        <option value="$PROJECT_DIR$/lib/public/css/fgfc.css" />
         <option value="$PROJECT_DIR$/lib/views/team_menu.slim" />
         <option value="$PROJECT_DIR$/lib/public/css/yamm.css" />
-        <option value="$PROJECT_DIR$/lib/views/carousel.slim" />
         <option value="$PROJECT_DIR$/lib/views/layout.slim" />
+        <option value="$PROJECT_DIR$/lib/views/home.slim" />
+        <option value="$PROJECT_DIR$/lib/public/css/fgfc.css" />
+        <option value="$PROJECT_DIR$/lib/views/carousel.slim" />
         <option value="$PROJECT_DIR$/lib/data/news/data.rb" />
       </list>
     </option>
@@ -333,7 +336,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -442,6 +444,54 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fgfc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fgfc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fives" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fgfc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fgfc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -491,42 +541,28 @@
       <pane id="PackagesPane">
         <subPane />
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="76" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="103" />
-    <property name="MemberChooser.sorted" value="false" />
-    <property name="recentsLimit" value="5" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="71" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/config.ru" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="110" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1052" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="1048" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="110" />
-    <property name="GoToClass.includeJavaFiles" value="false" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="104" />
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
-    <property name="MemberChooser.showClasses" value="true" />
-    <property name="GoToClass.includeLibraries" value="false" />
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../fgfc21-01-14" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/public/images/fives" />
       <recent name="$PROJECT_DIR$/lib/public/css" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/lib" />
@@ -878,22 +914,14 @@
       <created>1389737720784</created>
       <updated>1389737720784</updated>
     </task>
-    <task id="LOCAL-00018" summary="attempt at fixing IE8">
-      <created>1390257353069</created>
-      <updated>1390257353069</updated>
-    </task>
-    <task id="LOCAL-00019" summary="fixed IE8 and opened FG5s">
-      <created>1390340627009</created>
-      <updated>1390340627009</updated>
-    </task>
-    <option name="localTasksCounter" value="20" />
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1440" height="873" extended-state="0" />
+    <frame x="0" y="27" width="1440" height="873" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23453909" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2838983" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -903,20 +931,20 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956153" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2384058" sideWeight="0.65487975" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34512022" sideWeight="0.97553325" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23878437" sideWeight="0.6539548" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3460452" sideWeight="0.97553325" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32919255" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -958,7 +986,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed IE8 and opened FG5s" />
+    <option name="LAST_COMMIT_MESSAGE" value="attempt at fixing IE8" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -982,7 +1010,6 @@
     <MESSAGE value="touched up for tablets and mobiles" />
     <MESSAGE value="updated news items removed Xmas party" />
     <MESSAGE value="attempt at fixing IE8" />
-    <MESSAGE value="fixed IE8 and opened FG5s" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -992,23 +1019,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config.ru">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="12" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/fgfc_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/public/css/carousel.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/views/contact.slim">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="15" vertical-scroll-proportion="-0.0">
@@ -1019,6 +1029,13 @@
     <entry file="file://$PROJECT_DIR$/lib/public/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="5098" selection-start="5318" selection-end="5318" vertical-scroll-proportion="0.35059762" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/public/css/yamm.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="17" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
@@ -1047,27 +1064,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/public/css/fgfc.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="33" selection-start="456" selection-end="456" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/public/css/yamm.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="17" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/views/home.slim">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="16" selection-start="214" selection-end="214" vertical-scroll-proportion="-6.387097">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/public/css/ie8.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -1075,23 +1071,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/views/carousel.slim">
+    <entry file="file://$PROJECT_DIR$/lib/fgfc_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="28" selection-start="2243" selection-end="2243" vertical-scroll-proportion="-32.64516">
+        <state line="11" column="0" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/views/team.slim">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1385420140984" expanded="true" signature="2932:3006" placeholder="unless ... end" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/public/images/fg5s-home-logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/views/layout.slim">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="30" selection-start="637" selection-end="637" vertical-scroll-proportion="-4.967742">
+        <state line="10" column="28" selection-start="297" selection-end="297" vertical-scroll-proportion="50.096775">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/views/home.slim">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="16" selection-start="403" selection-end="403" vertical-scroll-proportion="-12.064516">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/public/css/fgfc.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="0" selection-start="1319" selection-end="1319" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/data/news/data.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="40" selection-start="169" selection-end="169" vertical-scroll-proportion="0.3958869">
+        <state line="8" column="43" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/views/carousel.slim">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="66" selection-start="1727" selection-end="1727" vertical-scroll-proportion="-1.4581006">
           <folding />
         </state>
       </provider>

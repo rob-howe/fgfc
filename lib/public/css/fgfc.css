@@ -71,6 +71,10 @@ p {
     color: #cc0000;
 }
 
+.green {
+    color: #74c03d;
+}
+
 .team-photo {
     height: 280px;
     width: 400px;

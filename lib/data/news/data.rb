@@ -5,10 +5,10 @@ module FGFC
 
     @news << {
         type: 'information',
-        heading: "2014 Forest Glade 5's",
-        para1: 'The 2014 Forest Glade 5\'s will take place on Saturday 24th and Sunday 25th May 2014.',
+        heading: "2014 Forest Glade Fives",
+        para1: 'The 2014 Forest Glade Fives will take place on Saturday 24th and Sunday 25th May 2014.',
         para2: 'Registration is now open.',
-        para3: 'Please visit <a href="http://www.thefg5s.co.uk">www.theFG5s.co.uk</a> for more information.'
+        para3: 'Please visit <a href="http://www.thefg5s.co.uk" target="_blank">www.theFG5s.co.uk</a> for more information.'
     }
 
     @news << {
