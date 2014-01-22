@@ -22,7 +22,7 @@ module FGFC
     @news << {
         type: 'committee',
         heading: 'Next Committee Meeting',
-        para1: 'The committee meet every month, the next one is scheduled for December.',
+        para1: 'The committee meet every month, the next one is scheduled for February.',
         para2: "If there are any issues you'd like raised please contact the club secretary at sereatry@forestgladefc.co.uk or contact your team manager.",
         para3: ''
     }
