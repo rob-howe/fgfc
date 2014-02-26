@@ -72,7 +72,7 @@
     <file path="$PROJECT_DIR$/../fgfc-new/lib/data/team_data/seniors.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385075037722" ignored="false" />
     <file path="/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385240592243" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385242864000" ignored="false" />
-    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1393453376925" ignored="false" />
+    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1393453576708" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/layout.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663507223" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/home.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663610857" ignored="false" />
     <file path="/home.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663608201" ignored="false" />
@@ -209,7 +209,7 @@
       <file leaf-file-name="contact.slim" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/views/contact.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="22" selection-start="1355" selection-end="1355" vertical-scroll-proportion="0.716792">
+            <state line="36" column="22" selection-start="1027" selection-end="1027" vertical-scroll-proportion="0.33082706">
               <folding />
             </state>
           </provider>
@@ -887,7 +887,11 @@
       <created>1393453378708</created>
       <updated>1393453378708</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="updated contacts">
+      <created>1393453581764</created>
+      <updated>1393453581764</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1089,7 +1093,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/views/contact.slim">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="22" selection-start="1355" selection-end="1355" vertical-scroll-proportion="0.716792">
+        <state line="36" column="22" selection-start="1027" selection-end="1027" vertical-scroll-proportion="0.33082706">
           <folding />
         </state>
       </provider>
