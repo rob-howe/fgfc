@@ -13,19 +13,21 @@ module FGFC
         ],
         squad: [
             'Rebecca Ashley',
-            'Ellie Bott',
+            'Isobel Boyd',
+            'Josie Cotgrove',
             'Drew Davidson',
+            'Imogen Frost',
             'Freya Fuller',
+            'Phoebe Fuller',
             'Alesi Harris',
-            'Annie McPhail',
-            'Elle O&apos;Toole',
-            'Amelie Rayner',
-            'Emma Walpole',
+            'Millie Hawkins',
+            'Annie Mcphail',
+            'Ellie Truman',
             'Lily Wilding'
         ],
-        photos: ['u12girls.png'],
+        photos: ['u12girls.jpg'],
         photos_text: '',
-        final_score: {league_number: '', season_id: ''},
+        final_score: {league_number: '707446992', season_id: '207610172'},
         our_kids: {profile_id: '', division_id: ''}
     }
 
