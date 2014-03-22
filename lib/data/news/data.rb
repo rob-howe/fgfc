@@ -4,7 +4,15 @@ module FGFC
     @news = []
 
     @news << {
-        type: 'fund_raising',
+        type: 'team',
+        heading: "U12 White - Players Wanted",
+        para1: "The U12 White's are currently looking for players for next season.",
+        para2: 'Due to the step up to 11 a side next season we need more experienced outfield players to boost the team.',
+        para3: 'Please contact Ian on 07805 231147.'
+    }
+
+    @news << {
+        type: 'team',
         heading: "U10 Tigers - Players Wanted",
         para1: 'The U10 Tigers are currently looking for players for next season.',
         para2: 'We are currently carrying out trials on Saturdays 9.30 to 11am at the ForestGlade FC Barleylands Ground. Players need to be of a reasonable standard.',
@@ -30,7 +38,7 @@ module FGFC
     @news << {
         type: 'committee',
         heading: 'Next Committee Meeting',
-        para1: 'The committee meet every month, the next one is scheduled for February.',
+        para1: 'The committee meet every month.',
         para2: "If there are any issues you'd like raised please contact the club secretary at sereatry@forestgladefc.co.uk or contact your team manager.",
         para3: ''
     }
@@ -49,6 +57,22 @@ module FGFC
         para1: 'The 2014 club presentation day will be on Saturday 7th June.',
         para2: '',
         para3: 'Further information on the days planned events will be published nearer the date'
+    }
+
+    @news << {
+        type: '',
+        heading: '',
+        para1: '',
+        para2: '',
+        para3: ''
+    }
+
+    @news << {
+        type: '',
+        heading: '',
+        para1: '',
+        para2: '',
+        para3: ''
     }
 
     def self.get_news
