@@ -8,7 +8,7 @@ module FGFC
         manager: {name: 'Mark Reed',
                   contact: ['01268 540525', '07964 086235']
         },
-        coaches: [{name: 'Simon Lang', contact: ['01277 624226', '07500 840757']},
+        coaches: [{name: 'Simon Lang', contact: ['01277 414462', '07500 840757']},
                   {name: 'Nick York', contact: ['']}
         ],
         squad: [
