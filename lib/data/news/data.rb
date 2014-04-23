@@ -5,6 +5,22 @@ module FGFC
 
     @news << {
         type: 'team',
+        heading: "U12 Red - Players Wanted",
+        para1: "Forest Glade U12 Red are looking for players for next season.",
+        para2: 'This is for boys in year 7.',
+        para3: 'If interested please contact Hugo Reis on 01268 928397.'
+    }
+
+    @news << {
+        type: 'team',
+        heading: "U15 Blue - Players Wanted",
+        para1: "Forest Glade U15 Blue (season 2014 /2015) are looking for experienced outfield players moving into school year 10 in Sept 2014 to boost their squad.",
+        para2: 'The team have always played in the Premier Division and aim to progress each season. We are looking for experienced and strong players who are very keen to learn, remain positive and wish to add to a good team spirit.',
+        para3: 'Please contact Darren Crowley on 07890 576950 or email - secretary@forestgladefc.co.uk'
+    }
+
+    @news << {
+        type: 'team',
         heading: "U12 White - Players Wanted",
         para1: "The U12 White's are currently looking for players for next season.",
         para2: 'Due to the step up to 11 a side next season we need more experienced outfield players to boost the team.',
@@ -43,7 +59,7 @@ module FGFC
         para3: ''
     }
 
-        @news << {
+    @news << {
         type: 'team',
         heading: 'Girl players wanted',
         para1: 'Forest Glade girls are looking for new players in school years 8 & 9.',
@@ -57,14 +73,6 @@ module FGFC
         para1: 'The 2014 club presentation day will be on Saturday 7th June.',
         para2: '',
         para3: 'Further information on the days planned events will be published nearer the date'
-    }
-
-    @news << {
-        type: '',
-        heading: '',
-        para1: '',
-        para2: '',
-        para3: ''
     }
 
     @news << {
