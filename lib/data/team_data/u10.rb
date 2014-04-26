@@ -20,7 +20,7 @@ module FGFC
     }
 
     @team_data[:u10tigers] = {
-        name: '10 Tigers',
+        name: 'U10 Tigers',
         league: 'South East Essex Primary League',
         division: 'Division: 2 West',
         manager: {name: 'Robbie Williams',
@@ -38,7 +38,7 @@ module FGFC
     }
 
     @team_data[:u10leopards] = {
-        name: '10 Leopards',
+        name: 'U10 Leopards',
         league: 'South East Essex Primary League',
         division: 'Division: 4',
         manager: {name: 'Andy Walsh',
@@ -56,9 +56,9 @@ module FGFC
     }
 
     @team_data[:u10pumas] = {
-        name: '10 Pumas',
+        name: 'U10 Pumas',
         league: 'South East Essex Primary League',
-        division: 'Division: 2 West',
+        division: 'Division: 5',
         manager: {name: 'Michael Cope',
                   contact: ['07986 915246']
         },
