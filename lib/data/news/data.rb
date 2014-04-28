@@ -8,7 +8,7 @@ module FGFC
         heading: "U12 Red - Players Wanted",
         para1: "Forest Glade U12 Red are looking for players for next season.",
         para2: 'This is for boys in year 7.',
-        para3: 'If interested please contact Hugo Reis on 01268 928397.'
+        para3: 'If interested please contact Hugo Reis on 01268 928397 or 07713 135328.'
     }
 
     @news << {
