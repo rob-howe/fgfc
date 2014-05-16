@@ -5,8 +5,8 @@ module FGFC
         name: 'U12 Red',
         league: 'Southend & District Junior Sunday League',
         division: 'Division D',
-        manager: {name: 'Yasmin Shah',
-                  contact: ['07921 671346']
+        manager: {name: 'Elke Priesen',
+                  contact: ['07811 181981']
         },
         coaches: [{name: 'Hugo Reis',
                    contact: ['01268 928397']}
