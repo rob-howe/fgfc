@@ -36,14 +36,6 @@ module FGFC
     }
 
     @news << {
-        type: 'information',
-        heading: "2014 Forest Glade Fives",
-        para1: 'The 2014 Forest Glade Fives will take place on Saturday 24th and Sunday 25th May 2014.',
-        para2: 'Registration is now open.',
-        para3: 'Please visit <a href="http://www.thefg5s.co.uk" target="_blank">www.theFG5s.co.uk</a> for more information.'
-    }
-
-    @news << {
         type: 'committee',
         heading: 'Help Needed on The Committee',
         para1: "There are one or two vacancies on the club's committee.",

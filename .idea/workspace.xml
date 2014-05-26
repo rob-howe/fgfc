@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22f1ae15-8159-4826-b5bf-91437d87f3e5" name="Default" comment="updated U10's">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/data/team_data/u12red.rb" afterPath="$PROJECT_DIR$/lib/data/team_data/u12red.rb" />
+    <list default="true" id="22f1ae15-8159-4826-b5bf-91437d87f3e5" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/views/carousel.slim" afterPath="$PROJECT_DIR$/lib/views/carousel.slim" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/data/news/data.rb" afterPath="$PROJECT_DIR$/lib/data/news/data.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="6dcd82c9-60a9-44ea-bece-83eddb3eae2c" name="New changelist" comment="New changelist" />
@@ -72,7 +73,7 @@
     <file path="$PROJECT_DIR$/../fgfc-new/lib/data/team_data/seniors.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385075037722" ignored="false" />
     <file path="/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385240592243" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385242864000" ignored="false" />
-    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1400275406203" ignored="false" />
+    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1400275504613" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/layout.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663507223" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/home.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663610857" ignored="false" />
     <file path="/home.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663608201" ignored="false" />
@@ -145,9 +146,10 @@
     <file path="$PROJECT_DIR$/../harness/test.json" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1398755610960" ignored="false" />
     <file path="/response.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1398755537391" ignored="false" />
     <file path="/fragment.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1398757856460" ignored="false" />
-    <file path="$PROJECT_DIR$/../mail_sender/lib/send_entrered_teams_a_mail.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1400274914343" ignored="false" />
+    <file path="$PROJECT_DIR$/../mail_sender/lib/send_entrered_teams_a_mail.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1400314439758" ignored="false" />
     <file path="$PROJECT_DIR$/../mail_sender/lib/email_templates/teams_in_final.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1400274579781" ignored="false" />
     <file path="/teams_in_final.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1400274577170" ignored="false" />
+    <file path="/send_entrered_teams_a_mail.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1400314375759" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -215,28 +217,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="data.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="data.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/data/news/data.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="45" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0">
+            <state line="37" column="0" selection-start="1741" selection-end="1741" vertical-scroll-proportion="0.48598132">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="u12red.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="u12red.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/data/team_data/u12red.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="48" selection-start="308" selection-end="308" vertical-scroll-proportion="0.33333334">
+            <state line="15" column="41" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pure.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p125@fgfc/gems/json-1.8.1/lib/json/pure.rb">
+      <file leaf-file-name="carousel.slim" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/views/carousel.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="22" selection-start="161" selection-end="161" vertical-scroll-proportion="0.0">
+            <state line="21" column="0" selection-start="1057" selection-end="1057" vertical-scroll-proportion="-0.7096774">
               <folding />
             </state>
           </provider>
@@ -274,18 +276,18 @@
         <option value="$PROJECT_DIR$/lib/views/layout.slim" />
         <option value="$PROJECT_DIR$/lib/views/home.slim" />
         <option value="$PROJECT_DIR$/lib/public/css/fgfc.css" />
-        <option value="$PROJECT_DIR$/lib/views/carousel.slim" />
         <option value="$PROJECT_DIR$/lib/views/fives_app_left_bar.slim" />
         <option value="$PROJECT_DIR$/lib/views/fives_app.slim" />
         <option value="$PROJECT_DIR$/lib/views/contact.slim" />
         <option value="$PROJECT_DIR$/lib/data/team_data/girls.rb" />
         <option value="$PROJECT_DIR$/lib/data/team_data/u10.rb" />
-        <option value="$PROJECT_DIR$/lib/data/news/data.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/lib/data/response.rb" />
         <option value="$PROJECT_DIR$/lib/views/harness.slim" />
         <option value="$PROJECT_DIR$/lib/fgfc_controller.rb" />
         <option value="$PROJECT_DIR$/lib/data/team_data/u12red.rb" />
+        <option value="$PROJECT_DIR$/lib/views/carousel.slim" />
+        <option value="$PROJECT_DIR$/lib/data/news/data.rb" />
       </list>
     </option>
   </component>
@@ -393,10 +395,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="team_data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -859,7 +857,11 @@
       <created>1398720475931</created>
       <updated>1398720475931</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="updated U10's">
+      <created>1400275512785</created>
+      <updated>1400275512785</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1023,13 +1025,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/views/carousel.slim">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="66" selection-start="1727" selection-end="1727" vertical-scroll-proportion="-0.7096774">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/views/error.slim">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -1040,13 +1035,6 @@
     <entry file="file://$PROJECT_DIR$/lib/data/team_data/girls.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="23" selection-start="156" selection-end="156" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p125@fgfc/gems/json-1.8.1/lib/json/pure.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="22" selection-start="161" selection-end="161" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1065,16 +1053,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/data/news/data.rb">
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p125@fgfc/gems/json-1.8.1/lib/json/pure.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="45" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0">
+        <state line="7" column="22" selection-start="161" selection-end="161" vertical-scroll-proportion="0.34920636">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/data/team_data/u12red.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="48" selection-start="308" selection-end="308" vertical-scroll-proportion="0.33333334">
+        <state line="15" column="41" selection-start="436" selection-end="436" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/views/carousel.slim">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="1057" selection-end="1057" vertical-scroll-proportion="-0.7096774">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/data/news/data.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="0" selection-start="1741" selection-end="1741" vertical-scroll-proportion="0.48598132">
           <folding />
         </state>
       </provider>
