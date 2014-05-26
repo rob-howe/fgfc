@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="22f1ae15-8159-4826-b5bf-91437d87f3e5" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/views/carousel.slim" afterPath="$PROJECT_DIR$/lib/views/carousel.slim" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/data/news/data.rb" afterPath="$PROJECT_DIR$/lib/data/news/data.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="6dcd82c9-60a9-44ea-bece-83eddb3eae2c" name="New changelist" comment="New changelist" />
@@ -73,7 +72,7 @@
     <file path="$PROJECT_DIR$/../fgfc-new/lib/data/team_data/seniors.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385075037722" ignored="false" />
     <file path="/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385240592243" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385242864000" ignored="false" />
-    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1400275504613" ignored="false" />
+    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1401116584219" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/layout.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663507223" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/home.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663610857" ignored="false" />
     <file path="/home.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663608201" ignored="false" />
@@ -217,10 +216,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="data.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="data.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/data/news/data.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="0" selection-start="1741" selection-end="1741" vertical-scroll-proportion="0.48598132">
+            <state line="36" column="34" selection-start="1740" selection-end="1740" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -235,10 +234,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="carousel.slim" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="carousel.slim" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/views/carousel.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="0" selection-start="1057" selection-end="1057" vertical-scroll-proportion="-0.7096774">
+            <state line="12" column="29" selection-start="443" selection-end="443" vertical-scroll-proportion="0.6649874">
               <folding />
             </state>
           </provider>
@@ -286,8 +285,8 @@
         <option value="$PROJECT_DIR$/lib/views/harness.slim" />
         <option value="$PROJECT_DIR$/lib/fgfc_controller.rb" />
         <option value="$PROJECT_DIR$/lib/data/team_data/u12red.rb" />
-        <option value="$PROJECT_DIR$/lib/views/carousel.slim" />
         <option value="$PROJECT_DIR$/lib/data/news/data.rb" />
+        <option value="$PROJECT_DIR$/lib/views/carousel.slim" />
       </list>
     </option>
   </component>
@@ -861,7 +860,11 @@
       <created>1400275512785</created>
       <updated>1400275512785</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="updated U10's">
+      <created>1401116592498</created>
+      <updated>1401116592498</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1067,16 +1070,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/views/carousel.slim">
+    <entry file="file://$PROJECT_DIR$/lib/data/news/data.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="1057" selection-end="1057" vertical-scroll-proportion="-0.7096774">
+        <state line="36" column="34" selection-start="1740" selection-end="1740" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/data/news/data.rb">
+    <entry file="file://$PROJECT_DIR$/lib/views/carousel.slim">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="0" selection-start="1741" selection-end="1741" vertical-scroll-proportion="0.48598132">
+        <state line="12" column="29" selection-start="443" selection-end="443" vertical-scroll-proportion="0.6649874">
           <folding />
         </state>
       </provider>
