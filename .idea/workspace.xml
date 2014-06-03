@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22f1ae15-8159-4826-b5bf-91437d87f3e5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/views/contact.slim" afterPath="$PROJECT_DIR$/lib/views/contact.slim" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/views/honours.slim" afterPath="$PROJECT_DIR$/lib/views/honours.slim" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -45,7 +44,7 @@
     <file path="/error.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1384973304174" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/error.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385243015099" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/error_404.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385243016150" ignored="false" />
-    <file path="/honours.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1401824120688" ignored="false" />
+    <file path="/honours.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1401833797441" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/honours.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385243036500" ignored="false" />
     <file path="/teams.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1384933374091" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/teams.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1384933374525" ignored="false" />
@@ -73,7 +72,7 @@
     <file path="$PROJECT_DIR$/../fgfc-new/lib/data/team_data/seniors.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385075037722" ignored="false" />
     <file path="/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385240592243" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385242864000" ignored="false" />
-    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1401656619736" ignored="false" />
+    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1401824152763" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/layout.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663507223" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/home.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663610857" ignored="false" />
     <file path="/home.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663608201" ignored="false" />
@@ -238,7 +237,7 @@
       <file leaf-file-name="honours.slim" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/views/honours.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="25" selection-start="1502" selection-end="1502" vertical-scroll-proportion="1.2745591">
+            <state line="39" column="25" selection-start="1059" selection-end="1059" vertical-scroll-proportion="0.38790932">
               <folding />
             </state>
           </provider>
@@ -891,7 +890,11 @@
       <created>1401656622833</created>
       <updated>1401656622833</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="updated honours">
+      <created>1401824158974</created>
+      <updated>1401824158974</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -963,7 +966,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated contacts" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated honours" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -995,6 +998,7 @@
     <MESSAGE value="added 2 new adds" />
     <MESSAGE value="updated U10's" />
     <MESSAGE value="updated contacts" />
+    <MESSAGE value="updated honours" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1113,7 +1117,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/views/honours.slim">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="25" selection-start="1502" selection-end="1502" vertical-scroll-proportion="1.2745591">
+        <state line="39" column="25" selection-start="1059" selection-end="1059" vertical-scroll-proportion="0.38790932">
           <folding />
         </state>
       </provider>
