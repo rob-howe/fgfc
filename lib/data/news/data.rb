@@ -4,6 +4,13 @@ module FGFC
     @news = []
 
     @news << {
+        type: 'important',
+        heading: "Fives And Presentation Day",
+        para1: '<iframe height="440" width="340" frameborder="0" src="//flipagram.com/f/EHgRDLjiDP/embed"></iframe>',
+        para2: '',
+        para3: ''
+    }
+    @news << {
         type: 'team',
         heading: "U12 Red - Players Wanted",
         para1: "Forest Glade U12 Red are looking for players for next season.",
