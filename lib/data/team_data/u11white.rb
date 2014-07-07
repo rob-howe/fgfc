@@ -19,7 +19,7 @@ module FGFC
             'Scott Readings',
             'James Price',
             'Billy Taylor',
-            'Freddie Thomas'
+            'Freddie Thomas',
             'Matthew Watts'
         ],
         photos: ['white2002.jpg'],
