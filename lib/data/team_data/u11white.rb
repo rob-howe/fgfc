@@ -6,21 +6,20 @@ module FGFC
         league: 'Southend & District Junior Sunday League',
         division: 'Division A',
         manager: {name: 'Chris Taylor',
-                  contact: ['01268 583168']
+                  contact: ['07941 251807']
         },
         coaches: [{name: 'Daron Glover',
-                   contact: ['07794 057087']}
+                   contact: ['07928 093125']}
         ],
         squad: [
             'Cameron Browne',
-            'Jack Cartwright',
+            'Alex Clark',
             'Kai Glover',
-            'Dylan Hawley',
             'Tyler Norman-Mears',
             'Scott Readings',
-            'Faron Ryan-Diss',
-            'Millen Sango',
+            'James Price',
             'Billy Taylor',
+            'Freddie Thomas'
             'Matthew Watts'
         ],
         photos: ['white2002.jpg'],
