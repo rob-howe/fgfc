@@ -4,6 +4,14 @@ module FGFC
     @news = []
 
     @news << {
+        type: 'team',
+        heading: "U11 Black 2014/15 Season - Players Wanted",
+        para1: 'We are looking for additional players for the 2014/15 season. We invite players of all abilities. Training and home games are at Barleylands. We will be in League E for the coming campaign.',
+        para2: "This is for the 2014/15 Season (School year 6 in September).",
+        para3: 'If interested please call Nick Bailey on 07751 344644 or email nandkbailey@sky.com for further details.'
+    }
+
+    @news << {
         type: 'important',
         heading: "Fives And Presentation Day",
         para1: '<iframe height="440" width="340" frameborder="0" src="//flipagram.com/f/EHgRDLjiDP/embed"></iframe>',
@@ -63,22 +71,6 @@ module FGFC
         heading: 'Girl players wanted',
         para1: 'Forest Glade girls are looking for new players in school years 8 & 9.',
         para2: "If interested please contact Laura on 07817 542812",
-        para3: ''
-    }
-
-    @news << {
-        type: 'information',
-        heading: "2014 Club Presentation Day",
-        para1: 'The 2014 club presentation day will be on Saturday 7th June.',
-        para2: '',
-        para3: 'Further information on the days planned events will be published nearer the date'
-    }
-
-    @news << {
-        type: '',
-        heading: '',
-        para1: '',
-        para2: '',
         para3: ''
     }
 

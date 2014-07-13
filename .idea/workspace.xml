@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22f1ae15-8159-4826-b5bf-91437d87f3e5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/data/team_data/u11white.rb" afterPath="$PROJECT_DIR$/lib/data/team_data/u11white.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/data/news/data.rb" afterPath="$PROJECT_DIR$/lib/data/news/data.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="6dcd82c9-60a9-44ea-bece-83eddb3eae2c" name="New changelist" comment="New changelist" />
@@ -27,7 +27,7 @@
     <file path="/carousel.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1390344669242" ignored="false" />
     <file path="/down.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385059232716" ignored="false" />
     <file path="/fgfc_controller.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1398759026825" ignored="false" />
-    <file path="/data.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1403733428312" ignored="false" />
+    <file path="/data.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1405245072846" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/data/news/data.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385417609178" ignored="false" />
     <file path="/history.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1384985249526" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/history.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385243027493" ignored="false" />
@@ -72,7 +72,7 @@
     <file path="$PROJECT_DIR$/../fgfc-new/lib/data/team_data/seniors.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385075037722" ignored="false" />
     <file path="/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385240592243" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385242864000" ignored="false" />
-    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1404764029900" ignored="false" />
+    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1404764178802" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/layout.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663507223" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/home.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663610857" ignored="false" />
     <file path="/home.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663608201" ignored="false" />
@@ -216,19 +216,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="data.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="data.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/data/news/data.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="43" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0">
+            <state line="9" column="76" selection-start="426" selection-end="426" vertical-scroll-proportion="0.50899744">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="u11white.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="u11white.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/data/team_data/u11white.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="25" selection-start="864" selection-end="864" vertical-scroll-proportion="0.82587063">
+            <state line="32" column="25" selection-start="864" selection-end="864" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -321,8 +321,8 @@
         <option value="$PROJECT_DIR$/lib/views/carousel.slim" />
         <option value="$PROJECT_DIR$/lib/views/contact.slim" />
         <option value="$PROJECT_DIR$/lib/views/honours.slim" />
-        <option value="$PROJECT_DIR$/lib/data/news/data.rb" />
         <option value="$PROJECT_DIR$/lib/data/team_data/u11white.rb" />
+        <option value="$PROJECT_DIR$/lib/data/news/data.rb" />
       </list>
     </option>
   </component>
@@ -968,7 +968,11 @@
       <created>1404764037840</created>
       <updated>1404764037840</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="updated u11 white">
+      <created>1404764185707</created>
+      <updated>1404764185707</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1184,16 +1188,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/data/news/data.rb">
+    <entry file="file://$PROJECT_DIR$/lib/data/team_data/u11white.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="43" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0">
+        <state line="32" column="25" selection-start="864" selection-end="864" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/data/team_data/u11white.rb">
+    <entry file="file://$PROJECT_DIR$/lib/data/news/data.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="25" selection-start="864" selection-end="864" vertical-scroll-proportion="0.82587063">
+        <state line="9" column="76" selection-start="426" selection-end="426" vertical-scroll-proportion="0.50899744">
           <folding />
         </state>
       </provider>
