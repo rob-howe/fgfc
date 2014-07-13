@@ -72,7 +72,7 @@
     <file path="$PROJECT_DIR$/../fgfc-new/lib/data/team_data/seniors.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385075037722" ignored="false" />
     <file path="/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385240592243" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385242864000" ignored="false" />
-    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1405245167537" ignored="false" />
+    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1405245409701" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/layout.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663507223" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/home.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663610857" ignored="false" />
     <file path="/home.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663608201" ignored="false" />
@@ -219,7 +219,7 @@
       <file leaf-file-name="data.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/data/news/data.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="65" selection-start="415" selection-end="415" vertical-scroll-proportion="0.50899744">
+            <state line="9" column="90" selection-start="440" selection-end="440" vertical-scroll-proportion="0.50899744">
               <folding />
             </state>
           </provider>
@@ -976,7 +976,11 @@
       <created>1405245171230</created>
       <updated>1405245171230</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="updated u11 black">
+      <created>1405245412417</created>
+      <updated>1405245412417</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1202,7 +1206,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/data/news/data.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="65" selection-start="415" selection-end="415" vertical-scroll-proportion="0.50899744">
+        <state line="9" column="90" selection-start="440" selection-end="440" vertical-scroll-proportion="0.50899744">
           <folding />
         </state>
       </provider>
