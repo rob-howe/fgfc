@@ -7,7 +7,7 @@ module FGFC
         type: 'team',
         heading: "U11 Black 2014/15 Season - Players Wanted",
         para1: 'We are looking for additional players for the 2014/15 season. We invite players of all abilities. Training and home games are at Barleylands. We will be in League E for the coming campaign.',
-        para2: "This is for the 2014/15 Season (School year 6 in September).",
+        para2: "This is for the 2014/15 Season, boys will be in school year 6 in September).",
         para3: 'If interested please call Nick Bailey on 07751 344644 or email nandkbailey@sky.com for further details.'
     }
 
