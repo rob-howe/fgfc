@@ -5,9 +5,25 @@ module FGFC
 
     @news << {
         type: 'team',
+        heading: "U11 White 2014/15 Season - Players Wanted",
+        para1: 'We are looking for additional players for the upcoming 2014/15 season. We currently play in the South East Essex League Div A.',
+        para2: "We are looking to add players to our squad going forward to 9 aside. Our coaching staff are FA affiliated and have all been CRB checked. Players need to have played at a reasonable standard they are welcome to come and train with us on Saturdays 9.30 till 11.00am. Positions we are looking for are Defender, Midfield, and Striker. Players must be Aged 10 years (year 6 in September).",
+        para3: 'If interested please call Robbie Williams 07824 636 934 or email rywilliams@blueyonder.co.uk for further details.'
+    }
+
+    @news << {
+        type: 'team',
+        heading: "U11 White 2014/15 Season - Coach Wanted",
+        para1: "We&apos;re looking for a new coach to assist the Manager in all aspects of coaching and administrating our U11s team during the 2014/15 season. You&apos;d need to be organised and have a desire for the boys to progress.",
+        para2: "Coaching/managing experience is essential. We have excellent training facilities and are a well organised FA Charter Standard club. So, if you are looking for a great opportunity to join a rapidly expanding club, then please get in touch. The successful candidate will help to coach the team every Saturday mornings from 9:30-11:00am at Barleylands Road, and help to manage the team on Sundays.",
+        para3: 'Please call Robbie Williams on 07824 636 934 or email rywilliams@blueyonder.co.uk for further details.'
+    }
+
+   @news << {
+        type: 'team',
         heading: "U11 Black 2014/15 Season - Players Wanted",
         para1: 'We are looking for additional players for the 2014/15 season. We invite players of all abilities. Training and home games are at Barleylands. We will be in League E for the coming campaign.',
-        para2: "This is for the 2014/15 Season, boys will be in school year 6 in September.",
+        para2: "This is for the 2014/15 season, boys will be in school year 6 in September.",
         para3: 'If interested please call Nick Bailey on 07751 344644 or email nandkbailey@sky.com for further details.'
     }
 
