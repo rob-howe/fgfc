@@ -22,8 +22,8 @@ module FGFC
    @news << {
         type: 'team',
         heading: "U11 Black 2014/15 Season - Players Wanted",
-        para1: 'We are looking for additional players for the 2014/15 season. We invite players of all abilities. Training and home games are at Barleylands. We will be in League E for the coming campaign.',
-        para2: "This is for the 2014/15 season, boys will be in school year 6 in September.",
+        para1: 'Forest Glade U11s Black are looking for players for the new season.',
+        para2: "You must be starting school year 6 in September, have experience of playing for a team and be of reasonable standard. Our coaches are committed to working with our boys to ensure they enjoy their football whilst developing their skills further.",
         para3: 'If interested please call Nick Bailey on 07751 344644 or email nandkbailey@sky.com for further details.'
     }
 
