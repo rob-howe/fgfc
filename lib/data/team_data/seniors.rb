@@ -5,8 +5,8 @@ module FGFC
         name: 'Seniors',
         league: 'ProKit UK Essex Olympian Football League',
         division: 'Senior Division 3',
-        manager: {name: 'Marc Harrison',
-                  contact: ['07456 449666']
+        manager: {name: 'Matt Hickey',
+                  contact: ['07740 841960']
         },
         coaches: [{name: '', contact: ['']}
         ],
