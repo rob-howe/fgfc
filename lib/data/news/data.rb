@@ -5,6 +5,14 @@ module FGFC
 
     @news << {
         type: 'team',
+        heading: "U12 White 2014/15 Season - Goalkeeper Wanted",
+        para1: 'Goal keeper required  to play for Forest Glade FC U12 for the 2014/15 season.',
+        para2: "The team plays in the the Southend District Junior Sunday League in division A.  We are looking for an experienced, confident keeper of reasonable standard to join us next season.",
+        para3: 'If interested please call Chris on 07941251807 or email ctaylor1001@hotmail.co.uk'
+    }
+
+    @news << {
+        type: 'team',
         heading: "U11 White 2014/15 Season - Players Wanted",
         para1: 'We are looking for additional players for the upcoming 2014/15 season. We currently play in the South East Essex League Div A.',
         para2: "We are looking to add players to our squad going forward to 9 aside. Our coaching staff are FA affiliated and have all been CRB checked. Players need to have played at a reasonable standard they are welcome to come and train with us on Saturdays 9.30 till 11.00am. Positions we are looking for are Defender, Midfield, and Striker. Players must be Aged 10 years (year 6 in September).",
