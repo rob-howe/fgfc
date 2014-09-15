@@ -4,7 +4,7 @@ module FGFC
     @team_data[:u18white] = {
             name: "U18 White",
             league: "Southend & District Junior Sunday League",
-            division: "Division Premier",
+            division: "Division: Premier",
             manager: {name: "Kevan Sans",
                       contact: ['07754 740125']
             },

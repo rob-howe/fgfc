@@ -4,7 +4,7 @@ module FGFC
     @team_data[:u15blue] = {
         name: 'U15 Blue',
         league: 'Southend & District Junior Sunday League',
-        division: 'Division Premier',
+        division: 'Division: Premier',
         manager: {name: 'Darren Crowley',
                   contact: ['01268 410995']
         },
@@ -37,7 +37,7 @@ module FGFC
     @team_data[:u15white] = {
         name: 'U15 White',
         league: 'Southend & District Junior Sunday League',
-        division: 'Division Premier',
+        division: 'Division: Premier',
         manager: {name: 'Steven Evans',
                   contact: ['01268 543554']
         },

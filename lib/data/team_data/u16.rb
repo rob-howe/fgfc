@@ -4,7 +4,7 @@ module FGFC
     @team_data[:u16blue] = {
         name: 'U16 Blue',
         league: 'Southend & District Junior Sunday League',
-        division: 'Division Premier',
+        division: 'Division: Premier',
         manager: {name: 'Lee Ashley',
                   contact: ['01277 815090']
         },
@@ -35,7 +35,7 @@ module FGFC
     @team_data[:u16white] = {
         name: 'U16 White',
         league: 'Southend & District Junior Sunday League',
-        division: 'Division B',
+        division: 'Division: B',
         manager: {name: 'Jonathan Howe',
                   contact: ['01277 222086']
         },

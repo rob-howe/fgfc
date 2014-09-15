@@ -4,7 +4,7 @@ module FGFC
     @team_data[:u11blue] = {
         name: 'U11 Blue',
         league: 'Southend & District Junior Sunday League',
-        division: 'Division Premier',
+        division: 'Division: Premier',
         manager: {name: 'Mark Reed',
                   contact: ['01268 540525', '07964 086235']
         },
@@ -22,7 +22,7 @@ module FGFC
     @team_data[:u11white] = {
         name: 'U11 White',
         league: 'Southend & District Junior Sunday League',
-        division: 'Division A',
+        division: 'Division: A',
         manager: {name: 'Robbie Williams',
                   contact: ['07824 636934']
         },
@@ -40,7 +40,7 @@ module FGFC
     @team_data[:u11red] = {
         name: 'U11 Red',
         league: 'Southend & District Junior Sunday League',
-        division: 'Division B',
+        division: 'Division: B',
         manager: {name: 'Paul Waller',
                   contact: ['07790 434842']
         },
@@ -58,7 +58,7 @@ module FGFC
     @team_data[:u11yellow] = {
         name: 'U11 Yellow',
         league: 'Southend & District Junior Sunday League',
-        division: 'Division D',
+        division: 'Division: D',
         manager: {name: 'Michael Cope',
                   contact: ['07986 915246']
         },
@@ -78,7 +78,7 @@ module FGFC
     @team_data[:u11black] = {
         name: 'U11 Black',
         league: 'Southend & District Junior Sunday League',
-        division: 'Division Presidents',
+        division: 'Division: Presidents',
         manager: {name: 'Gary Rayner',
                   contact: ['07711 452803']
         },

@@ -4,7 +4,7 @@ module FGFC
     @team_data[:u8lions] = {
         name: 'U8 Lions',
         league: 'South East Essex Primary League',
-        division: 'West',
+        division: 'Group: West',
         manager: {name: 'Andy Long', contact: ['07581 162541']
         },
         coaches: [{name: 'Ray Quorn', contact: ['07815 812340']},
@@ -21,7 +21,7 @@ module FGFC
     @team_data[:u8tigers] = {
         name: 'U8 Tigers',
         league: 'South East Essex Primary League',
-        division: 'Central',
+        division: 'Group: Central',
         manager: {name: 'Andy Dennington', contact: ['07825 809259']
         },
         coaches: [{name: 'Andy Long', contact: ['07581 162541']}
@@ -37,7 +37,7 @@ module FGFC
     @team_data[:u8leopards] = {
         name: 'U8 Leopards',
         league: 'South East Essex Primary League',
-        division: 'North',
+        division: 'Group: North',
         manager: {name: 'Andy Long', contact: ['07581 162541']
         },
         coaches: [{name: 'Paul Gilbey', contact: ['07921 716733']},

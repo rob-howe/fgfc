@@ -4,7 +4,7 @@ module FGFC
     @team_data[:u17blue] = {
             name: "U17 Blue",
             league: "Chelmsford Youth Football League",
-            division: "Division 3",
+            division: "Division: 3",
             manager: {name: "Simon Like",
                       contact: ['07557 551800']
             },

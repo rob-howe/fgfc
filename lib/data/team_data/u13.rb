@@ -4,7 +4,7 @@ module FGFC
     @team_data[:u13blue] = {
         name: 'U13 Blue',
         league: 'Southend & District Junior Sunday League',
-        division: 'Division B',
+        division: 'Division: B',
         manager: {name: 'Richard Jeffery',
                   contact: ['01268 415651']
         },
@@ -38,7 +38,7 @@ module FGFC
     @team_data[:u13white] = {
         name: 'U13 White',
         league: 'Southend & District Junior Sunday League',
-        division: 'Division B',
+        division: 'Division: B',
         manager: {name: 'Ian Turner',
                   contact: ['01268 493905']
         },
@@ -65,7 +65,7 @@ module FGFC
     @team_data[:u13red] = {
         name: 'U13 Red',
         league: 'Southend & District Junior Sunday League',
-        division: 'Division D',
+        division: 'Division: D',
         manager: {name: 'Hugo Reis',
                   contact: ['07985 807376']
         },

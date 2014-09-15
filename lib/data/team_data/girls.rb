@@ -4,7 +4,7 @@ module FGFC
     @team_data[:u12girls] = {
         name: 'U12/13 Girls',
         league: 'Essex County Girls League',
-        division: 'B Division',
+        division: 'Division: B',
         manager: {name: 'Claire Wilding',
                   contact: ['01268 293093']
         },
