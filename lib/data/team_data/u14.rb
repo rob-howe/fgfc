@@ -1,8 +1,8 @@
 module FGFC
   module TeamData
 
-    @team_data[:u13blue] = {
-        name: 'U13 Blue',
+    @team_data[:u14blue] = {
+        name: 'U14 Blue',
         league: 'Southend & District Junior Sunday League',
         division: 'Division A',
         manager: {name: 'Graham Hopgood',
@@ -15,7 +15,7 @@ module FGFC
         ],
         photos: ['blue2001.png'],
         photos_text: '',
-        final_score: {league_number: '779362465', season_id: '924197261'},
+        final_score: {league_number: '655579358', season_id: '758196656'},
         our_kids: {profile_id: '', division_id: ''}
     }
 

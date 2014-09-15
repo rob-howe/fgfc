@@ -8,7 +8,7 @@ module FGFC
         manager: {name: 'Matt Hickey',
                   contact: ['07740 841960']
         },
-        coaches: [{name: '', contact: ['']}
+        coaches: [{name: 'Nick Morgan', contact: ['07974 086367']}
         ],
         squad: [
         ],
@@ -24,8 +24,8 @@ module FGFC
         division: 'Division: Four East',
         manager: {name: 'Dan Wood', contact: ['07919 285800']
         },
-        coaches: [{name: '',
-                   contact: ['']}
+        coaches: [{name: 'Paul Dresou',
+                   contact: ['07918 640216']}
         ],
         squad: [
         ],

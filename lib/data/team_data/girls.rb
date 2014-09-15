@@ -2,14 +2,14 @@ module FGFC
   module TeamData
 
     @team_data[:u12girls] = {
-        name: 'U12 Girls',
+        name: 'U12/13 Girls',
         league: 'Essex County Girls League',
         division: '9 a side division',
         manager: {name: 'Claire Wilding',
                   contact: ['01268 293093']
         },
-        coaches: [{name: '',
-                   contact: ['']}
+        coaches: [{name: 'Andrew Boyd',
+                   contact: ['07986 348352']}
         ],
         squad: [
             'Rebecca Ashley',
