@@ -14,7 +14,7 @@ module FGFC
         ],
         photos: [''],
         photos_text: '',
-        final_score: {league_number: '294149646', season_id: '277503814'},
+        final_score: {league_number: '262790267', season_id: '43748501'},
         our_kids: {profile_id: '', division_id: ''}
     }
 
@@ -31,7 +31,7 @@ module FGFC
         ],
         photos: [''],
         photos_text: '',
-        final_score: {league_number: '392396186', season_id: '765681902'},
+        final_score: {league_number: '17357024', season_id: '773504897'},
         our_kids: {profile_id: '', division_id: ''}
     }
 

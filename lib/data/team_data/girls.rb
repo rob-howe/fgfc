@@ -4,7 +4,7 @@ module FGFC
     @team_data[:u12girls] = {
         name: 'U12/13 Girls',
         league: 'Essex County Girls League',
-        division: '9 a side division',
+        division: 'B Division',
         manager: {name: 'Claire Wilding',
                   contact: ['01268 293093']
         },
@@ -27,7 +27,7 @@ module FGFC
         ],
         photos: ['u12girls.jpg'],
         photos_text: '',
-        final_score: {league_number: '707446992', season_id: '207610172'},
+        final_score: {league_number: '119383492', season_id: '514224807'},
         our_kids: {profile_id: '', division_id: ''}
     }
 

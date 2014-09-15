@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22f1ae15-8159-4826-b5bf-91437d87f3e5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/team/u11_black.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/data/news/data.rb" afterPath="$PROJECT_DIR$/lib/data/news/data.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/data/team_data/u11.rb" afterPath="$PROJECT_DIR$/lib/data/team_data/u11.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/data/team_data/girls.rb" afterPath="$PROJECT_DIR$/lib/data/team_data/girls.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/data/team_data/seniors.rb" afterPath="$PROJECT_DIR$/lib/data/team_data/seniors.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="6dcd82c9-60a9-44ea-bece-83eddb3eae2c" name="New changelist" comment="New changelist" />
@@ -74,7 +73,7 @@
     <file path="$PROJECT_DIR$/../fgfc-new/lib/data/team_data/seniors.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385075037722" ignored="false" />
     <file path="/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385240592243" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385242864000" ignored="false" />
-    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1410800298362" ignored="false" />
+    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1410815214561" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/layout.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663507223" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/home.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663610857" ignored="false" />
     <file path="/home.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663608201" ignored="false" />
@@ -132,7 +131,7 @@
     <file path="$PROJECT_DIR$/../fgfc-fives/lib/views/fives_app.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1393009242325" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-fives/lib/views/fives_app_left_bar.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1392884885156" ignored="false" />
     <file path="/contact.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1401823391968" ignored="false" />
-    <file path="/girls.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1395010042364" ignored="false" />
+    <file path="/girls.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1410815564055" ignored="false" />
     <file path="$PROJECT_DIR$/../fg5s-admin/lib/routes/admin.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1396297616662" ignored="false" />
     <file path="/u10.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1398509174834" ignored="false" />
     <file path="$PROJECT_DIR$/../harness/Gemfile" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1398724361917" ignored="false" />
@@ -215,24 +214,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="u17.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/data/team_data/u17.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="53" selection-start="111" selection-end="143" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="teams.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/teams.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="8" selection-start="440" selection-end="440" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="carousel.slim" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/views/carousel.slim">
           <provider selected="true" editor-type-id="text-editor">
@@ -242,10 +223,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="data.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="data.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/data/news/data.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="88" column="77" selection-start="5262" selection-end="5262" vertical-scroll-proportion="0.88746804">
+            <state line="79" column="39" selection-start="4885" selection-end="4885" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="seniors.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/data/team_data/seniors.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="46" selection-start="997" selection-end="997" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="girls.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/data/team_data/girls.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="65" selection-start="732" selection-end="732" vertical-scroll-proportion="0.5990099">
               <folding />
             </state>
           </provider>
@@ -326,11 +325,9 @@
         <option value="$PROJECT_DIR$/lib/data/team_data/u7.rb" />
         <option value="$PROJECT_DIR$/lib/data/team_data/u8.rb" />
         <option value="$PROJECT_DIR$/lib/data/team_data/u9.rb" />
-        <option value="$PROJECT_DIR$/lib/data/team_data/girls.rb" />
         <option value="$PROJECT_DIR$/lib/data/team_data/u13.rb" />
         <option value="$PROJECT_DIR$/lib/data/team_data/u15.rb" />
         <option value="$PROJECT_DIR$/lib/data/team_data/u17.rb" />
-        <option value="$PROJECT_DIR$/lib/data/team_data/seniors.rb" />
         <option value="$PROJECT_DIR$/lib/team_data.rb" />
         <option value="$PROJECT_DIR$/lib/teams.rb" />
         <option value="$PROJECT_DIR$/lib/data/team_data/u12.rb" />
@@ -338,6 +335,8 @@
         <option value="$PROJECT_DIR$/lib/views/carousel.slim" />
         <option value="$PROJECT_DIR$/lib/data/team_data/u11.rb" />
         <option value="$PROJECT_DIR$/lib/data/news/data.rb" />
+        <option value="$PROJECT_DIR$/lib/data/team_data/seniors.rb" />
+        <option value="$PROJECT_DIR$/lib/data/team_data/girls.rb" />
       </list>
     </option>
   </component>
@@ -1040,7 +1039,11 @@
       <created>1410800304368</created>
       <updated>1410800304368</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="2014/15 season">
+      <created>1410815221539</created>
+      <updated>1410815221539</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1161,13 +1164,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/data/team_data/u9.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/data/team_data/u10.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -1190,13 +1186,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/data/team_data/u16.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/data/team_data/girls.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
@@ -1266,7 +1255,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/data/news/data.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="88" column="77" selection-start="5262" selection-end="5262" vertical-scroll-proportion="0.88746804">
+        <state line="79" column="39" selection-start="4885" selection-end="4885" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/data/team_data/seniors.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="46" selection-start="997" selection-end="997" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/data/team_data/girls.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="65" selection-start="732" selection-end="732" vertical-scroll-proportion="0.5990099">
           <folding />
         </state>
       </provider>
