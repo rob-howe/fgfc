@@ -2,34 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22f1ae15-8159-4826-b5bf-91437d87f3e5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/data/team_data/u13.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/data/team_data/u15.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/data/team_data/u17.rb" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/data/team_data/u11white.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/data/team_data/u12blue.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/data/team_data/u12red.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/data/team_data/u12white.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/data/team_data/u14blue.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/data/team_data/u14red.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/data/team_data/u14white.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/data/team_data/u15white.rb" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/data/team_data/u10.rb" afterPath="$PROJECT_DIR$/lib/data/team_data/u11.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/data/team_data/u11blue.rb" afterPath="$PROJECT_DIR$/lib/data/team_data/u12.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/data/team_data/u13blue.rb" afterPath="$PROJECT_DIR$/lib/data/team_data/u14.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/data/team_data/u15blue.rb" afterPath="$PROJECT_DIR$/lib/data/team_data/u16.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/data/team_data/u16white.rb" afterPath="$PROJECT_DIR$/lib/data/team_data/u18.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/data/team_data/u18blue.rb" afterPath="$PROJECT_DIR$/lib/data/team_data/u18blueOLD.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/data/team_data/u18white.rb" afterPath="$PROJECT_DIR$/lib/data/team_data/u18whiteOLD.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/data/team_data/u7.rb" afterPath="$PROJECT_DIR$/lib/data/team_data/u8.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/data/team_data/u9.rb" afterPath="$PROJECT_DIR$/lib/data/team_data/u10.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/views/carousel.slim" afterPath="$PROJECT_DIR$/lib/views/carousel.slim" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/data/team_data/girls.rb" afterPath="$PROJECT_DIR$/lib/data/team_data/girls.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/data/team_data/seniors.rb" afterPath="$PROJECT_DIR$/lib/data/team_data/seniors.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/team_data.rb" afterPath="$PROJECT_DIR$/lib/team_data.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/teams.rb" afterPath="$PROJECT_DIR$/lib/teams.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/data/team_data/u6.rb" afterPath="$PROJECT_DIR$/lib/data/team_data/u6.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/data/team_data/u7.rb" afterPath="$PROJECT_DIR$/lib/data/team_data/u7.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/data/team_data/u9.rb" afterPath="$PROJECT_DIR$/lib/data/team_data/u9.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/team/u11_black.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/data/news/data.rb" afterPath="$PROJECT_DIR$/lib/data/news/data.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/data/team_data/u11.rb" afterPath="$PROJECT_DIR$/lib/data/team_data/u11.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="6dcd82c9-60a9-44ea-bece-83eddb3eae2c" name="New changelist" comment="New changelist" />
@@ -54,7 +29,7 @@
     <file path="/carousel.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1390344669242" ignored="false" />
     <file path="/down.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385059232716" ignored="false" />
     <file path="/fgfc_controller.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1398759026825" ignored="false" />
-    <file path="/data.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1406579656478" ignored="false" />
+    <file path="/data.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1410815175614" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/data/news/data.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385417609178" ignored="false" />
     <file path="/history.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1384985249526" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/history.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385243027493" ignored="false" />
@@ -99,7 +74,7 @@
     <file path="$PROJECT_DIR$/../fgfc-new/lib/data/team_data/seniors.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385075037722" ignored="false" />
     <file path="/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385240592243" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385242864000" ignored="false" />
-    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1410723912112" ignored="false" />
+    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1410800298362" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/layout.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663507223" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/home.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663610857" ignored="false" />
     <file path="/home.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663608201" ignored="false" />
@@ -179,7 +154,7 @@
     <file path="/u18.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1408569658390" ignored="false" />
     <file path="/u13.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1408570422606" ignored="false" />
     <file path="/u12.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1408570842102" ignored="false" />
-    <file path="/u11.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1408571542602" ignored="false" />
+    <file path="/u11.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1410814421033" ignored="false" />
     <file path="/u7.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1410722906604" ignored="false" />
     <file path="/u17.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1410290832596" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -240,46 +215,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="u14.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/data/team_data/u14.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="u15.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/data/team_data/u15.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="u16.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/data/team_data/u16.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="u17.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/data/team_data/u17.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="5" column="53" selection-start="111" selection-end="143" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="girls.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/data/team_data/girls.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -294,12 +233,46 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="carousel.slim" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="carousel.slim" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/views/carousel.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="18" selection-start="1636" selection-end="1636" vertical-scroll-proportion="0.87777776">
+            <state line="33" column="18" selection-start="1636" selection-end="1636" vertical-scroll-proportion="-10.193548">
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/data/news/data.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="88" column="77" selection-start="5262" selection-end="5262" vertical-scroll-proportion="0.88746804">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="u11.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/data/team_data/u11.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="102" column="30" selection-start="3262" selection-end="3262" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="u13.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/data/team_data/u13.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="74" column="42" selection-start="2318" selection-end="2318" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="u11_black.jpeg" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/public/images/team/u11_black.jpeg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -349,12 +322,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/lib/data/team_data/u10.rb" />
         <option value="$PROJECT_DIR$/lib/data/team_data/u6.rb" />
         <option value="$PROJECT_DIR$/lib/data/team_data/u7.rb" />
         <option value="$PROJECT_DIR$/lib/data/team_data/u8.rb" />
         <option value="$PROJECT_DIR$/lib/data/team_data/u9.rb" />
-        <option value="$PROJECT_DIR$/lib/data/team_data/u11.rb" />
         <option value="$PROJECT_DIR$/lib/data/team_data/girls.rb" />
         <option value="$PROJECT_DIR$/lib/data/team_data/u13.rb" />
         <option value="$PROJECT_DIR$/lib/data/team_data/u15.rb" />
@@ -365,6 +336,8 @@
         <option value="$PROJECT_DIR$/lib/data/team_data/u12.rb" />
         <option value="$PROJECT_DIR$/lib/data/team_data/u18.rb" />
         <option value="$PROJECT_DIR$/lib/views/carousel.slim" />
+        <option value="$PROJECT_DIR$/lib/data/team_data/u11.rb" />
+        <option value="$PROJECT_DIR$/lib/data/news/data.rb" />
       </list>
     </option>
   </component>
@@ -468,6 +441,72 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fgfc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fgfc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fgfc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fgfc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="team" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fgfc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fgfc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -491,6 +530,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="news" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -993,7 +1036,11 @@
       <created>1406321242380</created>
       <updated>1406321242380</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="2014/15 season">
+      <created>1410800304368</created>
+      <updated>1410800304368</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1012,6 +1059,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286119" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1023,7 +1071,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1065,7 +1112,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="new seniors manager" />
+    <option name="LAST_COMMIT_MESSAGE" value="2014/15 season" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1078,7 +1125,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="Removed old site and added down for maintenance" />
     <MESSAGE value="New look and feel" />
     <MESSAGE value="ie9 and ie8" />
     <MESSAGE value="reverted new look and feel" />
@@ -1103,6 +1149,7 @@
     <MESSAGE value="updated u11 black" />
     <MESSAGE value="updated u11 white adverts" />
     <MESSAGE value="new seniors manager" />
+    <MESSAGE value="2014/15 season" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1114,20 +1161,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/data/team_data/u7.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/data/team_data/u8.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/data/team_data/u9.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -1138,20 +1171,6 @@
     <entry file="file://$PROJECT_DIR$/lib/data/team_data/u10.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/data/team_data/u11.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/data/team_data/u13.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="42" selection-start="2318" selection-end="2318" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1198,13 +1217,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/views/team.slim">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="0" selection-start="1205" selection-end="1205" vertical-scroll-proportion="-4.193548">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/data/team_data/u12.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="41" column="18" selection-start="1225" selection-end="1225" vertical-scroll-proportion="0.0">
@@ -1221,7 +1233,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/views/carousel.slim">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="18" selection-start="1636" selection-end="1636" vertical-scroll-proportion="0.87777776">
+        <state line="33" column="18" selection-start="1636" selection-end="1636" vertical-scroll-proportion="-10.193548">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/data/team_data/u13.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="42" selection-start="2318" selection-end="2318" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/public/images/team/u11_black.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/data/team_data/u11.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="102" column="30" selection-start="3262" selection-end="3262" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/views/team.slim">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="0" selection-start="1205" selection-end="1205" vertical-scroll-proportion="-4.193548">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/data/news/data.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="88" column="77" selection-start="5262" selection-end="5262" vertical-scroll-proportion="0.88746804">
           <folding />
         </state>
       </provider>

@@ -82,14 +82,25 @@ module FGFC
         manager: {name: 'Gary Rayner',
                   contact: ['07711 452803']
         },
-        coaches: [{name: 'Ron Allwood',
+        coaches: [{name: 'Gary Rayner',
+                   contact: ['07711 452803']},
+                  {name: 'Ron Allwood',
                    contact: ['07966 333645']},
-                  {name: '',
+                  {name: 'Dean Broom',
                    contact: ['']}
         ],
-        squad: [
-        ],
-        photos: [''],
+        squad: ['1. Luke Soley',
+                '2. Aaron Hill',
+                '4. Thomas Walsh',
+                '5. Taylor Hayes',
+                '6. Taylor Allwood',
+                '7. Joshua Broom',
+                '8. Samuel Purbrick',
+                '9. Alex Rayner',
+                '10. Joshua Bailey',
+                '11. Dylan Spiteri'
+    ],
+        photos: ['u11_black.jpeg'],
         photos_text: '',
         final_score: {league_number: '510897605', season_id: '758196656'},
         our_kids: {profile_id: '', division_id: ''}
