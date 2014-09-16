@@ -79,8 +79,8 @@ module FGFC
         name: 'U11 Black',
         league: 'Southend & District Junior Sunday League',
         division: 'Division: Presidents',
-        manager: {name: 'Gary Rayner',
-                  contact: ['07711 452803']
+        manager: {name: 'Nick Bailey',
+                  contact: ['07751 344644']
         },
         coaches: [{name: 'Gary Rayner',
                    contact: ['07711 452803']},

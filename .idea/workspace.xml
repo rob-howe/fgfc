@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22f1ae15-8159-4826-b5bf-91437d87f3e5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/data/team_data/u18blueOLD.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/data/team_data/u18whiteOLD.rb" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/data/team_data/girls.rb" afterPath="$PROJECT_DIR$/lib/data/team_data/girls.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/data/team_data/u11.rb" afterPath="$PROJECT_DIR$/lib/data/team_data/u11.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/data/team_data/u12.rb" afterPath="$PROJECT_DIR$/lib/data/team_data/u12.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/data/team_data/u13.rb" afterPath="$PROJECT_DIR$/lib/data/team_data/u13.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/data/team_data/u14.rb" afterPath="$PROJECT_DIR$/lib/data/team_data/u14.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/data/team_data/u15.rb" afterPath="$PROJECT_DIR$/lib/data/team_data/u15.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/data/team_data/u16.rb" afterPath="$PROJECT_DIR$/lib/data/team_data/u16.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/data/team_data/u17.rb" afterPath="$PROJECT_DIR$/lib/data/team_data/u17.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/data/team_data/u18.rb" afterPath="$PROJECT_DIR$/lib/data/team_data/u18.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/data/team_data/u8.rb" afterPath="$PROJECT_DIR$/lib/data/team_data/u8.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="6dcd82c9-60a9-44ea-bece-83eddb3eae2c" name="New changelist" comment="New changelist" />
@@ -83,7 +72,7 @@
     <file path="$PROJECT_DIR$/../fgfc-new/lib/data/team_data/seniors.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385075037722" ignored="false" />
     <file path="/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385240592243" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385242864000" ignored="false" />
-    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1410815714356" ignored="false" />
+    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1410816052945" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/layout.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663507223" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/home.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663610857" ignored="false" />
     <file path="/home.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663608201" ignored="false" />
@@ -235,10 +224,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="u11.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="u11.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/data/team_data/u11.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="98" column="28" selection-start="3151" selection-end="3151" vertical-scroll-proportion="0.0">
+            <state line="82" column="41" selection-start="2605" selection-end="2605" vertical-scroll-proportion="0.15133531">
               <folding />
             </state>
           </provider>
@@ -307,7 +296,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blue1999.png" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="blue1999.png" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/public/images/team/blue1999.png">
           <provider selected="true" editor-type-id="images">
             <state />
@@ -341,7 +330,6 @@
         <option value="$PROJECT_DIR$/lib/data/team_data/girls.rb" />
         <option value="$PROJECT_DIR$/lib/data/team_data/u9.rb" />
         <option value="$PROJECT_DIR$/lib/data/team_data/u8.rb" />
-        <option value="$PROJECT_DIR$/lib/data/team_data/u11.rb" />
         <option value="$PROJECT_DIR$/lib/data/team_data/u12.rb" />
         <option value="$PROJECT_DIR$/lib/data/team_data/u13.rb" />
         <option value="$PROJECT_DIR$/lib/data/team_data/u14.rb" />
@@ -349,6 +337,7 @@
         <option value="$PROJECT_DIR$/lib/data/team_data/u16.rb" />
         <option value="$PROJECT_DIR$/lib/data/team_data/u17.rb" />
         <option value="$PROJECT_DIR$/lib/data/team_data/u18.rb" />
+        <option value="$PROJECT_DIR$/lib/data/team_data/u11.rb" />
       </list>
     </option>
   </component>
@@ -1059,12 +1048,16 @@
       <created>1410815718495</created>
       <updated>1410815718495</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="2014/15 season updates">
+      <created>1410816059146</created>
+      <updated>1410816059146</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1440" height="873" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28328612" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1084,8 +1077,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22028986" sideWeight="0.65770864" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34229138" sideWeight="0.97553325" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22028986" sideWeight="0.65770864" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34229138" sideWeight="0.97553325" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1229,13 +1222,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/data/team_data/u11.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="98" column="28" selection-start="3151" selection-end="3151" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/data/team_data/u12.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="28" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0">
@@ -1288,6 +1274,13 @@
     <entry file="file://$PROJECT_DIR$/lib/public/images/team/blue1999.png">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/data/team_data/u11.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="82" column="41" selection-start="2605" selection-end="2605" vertical-scroll-proportion="0.15133531">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
