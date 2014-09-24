@@ -72,7 +72,7 @@
     <file path="$PROJECT_DIR$/../fgfc-new/lib/data/team_data/seniors.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385075037722" ignored="false" />
     <file path="/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385240592243" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385242864000" ignored="false" />
-    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1410816052945" ignored="false" />
+    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1410898974102" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/layout.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663507223" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/home.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663610857" ignored="false" />
     <file path="/home.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663608201" ignored="false" />
@@ -227,7 +227,7 @@
       <file leaf-file-name="u11.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/data/team_data/u11.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="82" column="41" selection-start="2605" selection-end="2605" vertical-scroll-proportion="0.15133531">
+            <state line="73" column="47" selection-start="2279" selection-end="2279" vertical-scroll-proportion="0.8981481">
               <folding />
             </state>
           </provider>
@@ -1052,7 +1052,11 @@
       <created>1410816059146</created>
       <updated>1410816059146</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="2014/15 season updates">
+      <created>1410898980364</created>
+      <updated>1410898980364</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1078,7 +1082,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22028986" sideWeight="0.65770864" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34229138" sideWeight="0.97553325" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34229138" sideWeight="0.97553325" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1278,7 +1282,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/data/team_data/u11.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="41" selection-start="2605" selection-end="2605" vertical-scroll-proportion="0.15133531">
+        <state line="73" column="47" selection-start="2279" selection-end="2279" vertical-scroll-proportion="0.8981481">
           <folding />
         </state>
       </provider>
