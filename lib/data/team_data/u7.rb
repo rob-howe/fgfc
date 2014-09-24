@@ -15,6 +15,10 @@ module FGFC
         ],
         photos: [''],
         photos_text: '',
+        sponsors: [{url: 'http://www.kwik-fit.com', logo: 'kwik-fit.png', name:'Kwit Fit'},
+                   {url: 'http://www.antongroup.co.uk', logo: 'antongroup.png', name:'Anton Group'},
+                   {url: '', logo: 'serendipity_nursery.jpg', name:'Serendipity Nursery'}
+        ],
         final_score: {league_number: '', season_id: ''},
         our_kids: {profile_id: '26280', division_id: ''}
     }
@@ -33,6 +37,10 @@ module FGFC
         ],
         photos: [''],
         photos_text: '',
+        sponsors: [{url: 'http://www.kwik-fit.com', logo: 'kwik-fit.png', name:'Kwit Fit'},
+                   {url: 'http://www.antongroup.co.uk', logo: 'antongroup.png', name:'Anton Group'},
+                   {url: 'http://www.sigma-broking.com', logo: 'sigma_broking.png', name:'Sigma Broking'}
+        ],
         final_score: {league_number: '', season_id: ''},
         our_kids: {profile_id: '26281', division_id: ''}
     }
@@ -50,7 +58,13 @@ module FGFC
         squad: [
         ],
         photos: [''],
-        photos_text: '',
+        photos_text: [],
+        sponsors: [{url: 'http://www.kwik-fit.com', logo: 'kwik-fit.png', name:'Kwit Fit'},
+                   {url: 'http://www.antongroup.co.uk', logo: 'antongroup.png', name:'Anton Group'},
+                   {url: 'http://www.gmb.org.uk', logo: 'gmb_logo.png', name:'GMB Union'},
+                   {url: 'http://www.palmmason.com', logo: 'palmmason.png', name:'PalmMason Group'},
+                   {url: 'https://twitter.com/twistedhandb', logo: nil, name:'Twisted Hair & Beauty'}
+        ],
         final_score: {league_number: '', season_id: ''},
         our_kids: {profile_id: '26282', division_id: ''}
     }

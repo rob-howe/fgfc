@@ -74,3 +74,12 @@
                 | :-: Results :
     - unless @team_data[:photos_text].empty?
       p = @team_data[:photos_text]
+    - unless @team_data[:sponsors].nil? || @team_data[:sponsors].empty?
+      h3 Sponsors
+      - @team_data[:sponsors].each do |sponsor|
+        p.logo
+          a href="#{sponsor[:url]}" target="_blank" alt="#{sponsor[:name]}"
+            - if sponsor[:logo].nil?
+              | #{sponsor[:name]}
+            - else
+              img src="/images/logos/#{sponsor[:logo]}"
