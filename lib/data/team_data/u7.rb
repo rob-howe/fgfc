@@ -83,6 +83,8 @@ module FGFC
         ],
         photos: [''],
         photos_text: '',
+        sponsors: [{url: 'https://www.facebook.com/pages/Cloud9-Billericay/233725463504360', logo: 'cloud9_billericay.jpg', name:'Cloud9 Billericay'}
+        ],
         final_score: {league_number: '', season_id: ''},
         our_kids: {profile_id: '', division_id: ''}
     }
