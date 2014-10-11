@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22f1ae15-8159-4826-b5bf-91437d87f3e5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/logos/cloud9_billericay.jpg" />
+    <list default="true" id="22f1ae15-8159-4826-b5bf-91437d87f3e5" name="Default" comment="u7 sponsor">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/public/images/logos/temme_english.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/public/images/logos/cloud9_billericay.jpg" afterPath="$PROJECT_DIR$/lib/public/images/logos/cloud9_billericay.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/views/layout.slim" afterPath="$PROJECT_DIR$/lib/views/layout.slim" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/data/team_data/u7.rb" afterPath="$PROJECT_DIR$/lib/data/team_data/u7.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -73,7 +75,7 @@
     <file path="$PROJECT_DIR$/../fgfc-new/lib/data/team_data/seniors.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385075037722" ignored="false" />
     <file path="/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1411595101458" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385242864000" ignored="false" />
-    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1412799178641" ignored="false" />
+    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1413062196758" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/layout.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663507223" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/home.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663610857" ignored="false" />
     <file path="/home.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663608201" ignored="false" />
@@ -154,7 +156,7 @@
     <file path="/u13.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1412710358227" ignored="false" />
     <file path="/u12.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1408570842102" ignored="false" />
     <file path="/u11.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1410814421033" ignored="false" />
-    <file path="/u7.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1412799613341" ignored="false" />
+    <file path="/u7.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1413059876473" ignored="false" />
     <file path="/u17.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1410290832596" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -170,7 +172,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -205,6 +206,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -219,14 +221,14 @@
       <file leaf-file-name="u7.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/data/team_data/u7.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="79" column="122" selection-start="3024" selection-end="3024" vertical-scroll-proportion="0.0">
+            <state line="77" column="102" selection-start="2961" selection-end="2961" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cloud9_billericay.jpg" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/public/images/logos/cloud9_billericay.jpg">
+      <file leaf-file-name="temme_english.png" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/public/images/logos/temme_english.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -271,7 +273,7 @@
       <file leaf-file-name="team.slim" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/views/team.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="17" selection-start="3023" selection-end="3023" vertical-scroll-proportion="-10.548388">
+            <state line="76" column="17" selection-start="3023" selection-end="3023" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -288,6 +290,13 @@
       </file>
       <file leaf-file-name="red2000.jpeg" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/public/images/team/red2000.jpeg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cloud9_billericay.jpg" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/public/images/logos/cloud9_billericay.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -312,7 +321,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/lib/data/team_data/seniors.rb" />
         <option value="$PROJECT_DIR$/lib/data/team_data/girls.rb" />
         <option value="$PROJECT_DIR$/lib/data/team_data/u9.rb" />
         <option value="$PROJECT_DIR$/lib/data/team_data/u8.rb" />
@@ -328,14 +336,15 @@
         <option value="$PROJECT_DIR$/lib/data/team_data/u13.rb" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/lib/data/team_data/u7.rb" />
+        <option value="$PROJECT_DIR$/lib/views/layout.slim" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
+    <option name="x" value="-1" />
     <option name="y" value="27" />
-    <option name="width" value="1422" />
-    <option name="height" value="870" />
+    <option name="width" value="1442" />
+    <option name="height" value="874" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -365,6 +374,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -520,10 +530,6 @@
               <option name="myItemId" value="data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="team_data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -566,7 +572,6 @@
       <pane id="PackagesPane">
         <subPane />
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -738,6 +743,13 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
       <method />
     </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -757,13 +769,6 @@
       </option>
       <envs />
       <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
-      <JSDebuggerConfigurationSettings>
-        <option name="engineId" value="embedded" />
-        <option name="fileUrl" />
-      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <configuration default="true" type="RackRunConfigurationType" factoryName="Rack">
@@ -1099,11 +1104,15 @@
       <created>1412712543024</created>
       <updated>1412712543024</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="u7 sponsor">
+      <created>1412799751799</created>
+      <updated>1412799751810</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="27" width="1422" height="870" extended-state="0" />
+    <frame x="-1" y="27" width="1442" height="874" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41702127" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1122,8 +1131,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22580644" sideWeight="0.65957445" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34042552" sideWeight="0.97553325" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22575977" sideWeight="0.65960455" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34039548" sideWeight="0.97553325" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1171,7 +1180,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="team changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="u7 sponsor" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1184,7 +1193,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="added back in  new look and feel" />
     <MESSAGE value="updated typo in news" />
     <MESSAGE value="modified menu to for responsiveness" />
     <MESSAGE value="touched up for tablets and mobiles" />
@@ -1209,6 +1217,7 @@
     <MESSAGE value="2014/15 season updates" />
     <MESSAGE value="added sponsors" />
     <MESSAGE value="team changes" />
+    <MESSAGE value="u7 sponsor" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1220,16 +1229,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/public/images/team/lions2005.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/public/images/team/red1999.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/public/images/logos/palmmason.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1299,19 +1298,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/views/team.slim">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="17" selection-start="3023" selection-end="3023" vertical-scroll-proportion="-10.548388">
+        <state line="76" column="17" selection-start="3023" selection-end="3023" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/public/images/logos/cloud9_billericay.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/views/layout.slim">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="100" column="26" selection-start="4007" selection-end="4007" vertical-scroll-proportion="0.7900553">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/data/team_data/u7.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="122" selection-start="3024" selection-end="3024" vertical-scroll-proportion="0.0">
+        <state line="77" column="102" selection-start="2961" selection-end="2961" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/public/images/logos/cloud9_billericay.jpg">
+    <entry file="file://$PROJECT_DIR$/lib/public/images/logos/temme_english.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
