@@ -97,8 +97,9 @@ module FGFC
                 '7. Joshua Broom',
                 '8. Samuel Purbrick',
                 '9. Alex Rayner',
-                '10. Joshua Bailey',
-                '11. Dylan Spiteri'
+                '10. Teddy Taylor',
+                '11. Dylan Spiteri',
+                '14. Joshua Bailey'
     ],
         photos: ['u11_black.jpeg'],
         photos_text: '',
