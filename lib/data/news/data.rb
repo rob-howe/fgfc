@@ -4,11 +4,11 @@ module FGFC
     @news = []
 
     @news << {
-        type: 'important',
-        heading: "Happy Christmas & New Year",
-        para1: 'Wishing everyone a happy Christmas and New Year from all at Forest Glade.',
-        para2: '',
-        para3: ''
+        type: 'team',
+        heading: "Player Trials U10's",
+        para1: "Forest Glade U10's will be holding trials to strengthen their already successful squad on the 25th April 2015. This is due to the format changing from 7 to 9 aside at this age group next season.",
+        para2: "Our Under 10's currently play in the top division of the Southend District League so experience at this level would be an advantage.",
+        para3: "Please contact Steve Bott (Manager) (FA level 2 qualified) for further details either by email Stephen.bott@tsb.co.uk or phone 07966 485 644"
     }
 
     @news << {
