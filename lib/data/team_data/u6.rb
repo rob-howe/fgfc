@@ -5,11 +5,11 @@ module FGFC
         name: 'U6 Lions',
         league: 'South East Essex Primary League',
         division: 'Group 1',
-        manager: {name: 'Glen Francis',
-                  contact: ['07956 142586']
+        manager: {name: 'Richard Few',
+                  contact: ['07500 966021']
         },
-        coaches: [{name: 'Andrew Nightingale',
-                   contact: ['07860 612566']}
+        coaches: [{name: 'Carl Simmons',
+                   contact: ['07470 359992']}
         ],
         squad: [
         ],
