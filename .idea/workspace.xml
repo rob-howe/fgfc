@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22f1ae15-8159-4826-b5bf-91437d87f3e5" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/views/carousel.slim" afterPath="$PROJECT_DIR$/lib/views/carousel.slim" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/data/news/data.rb" afterPath="$PROJECT_DIR$/lib/data/news/data.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/views/home.slim" afterPath="$PROJECT_DIR$/lib/views/home.slim" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="6dcd82c9-60a9-44ea-bece-83eddb3eae2c" name="New changelist" comment="New changelist" />
@@ -25,10 +25,10 @@
     <file path="/u8.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1410815899857" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/data/team_data/u8.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385240041335" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/data/team_data/u7.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385239547181" ignored="false" />
-    <file path="/carousel.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1390344669242" ignored="false" />
+    <file path="/carousel.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1426714467543" ignored="false" />
     <file path="/down.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385059232716" ignored="false" />
     <file path="/fgfc_controller.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1398759026825" ignored="false" />
-    <file path="/data.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1426714241879" ignored="false" />
+    <file path="/data.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1426714687544" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/data/news/data.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385417609178" ignored="false" />
     <file path="/history.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1384985249526" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/history.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385243027493" ignored="false" />
@@ -73,7 +73,7 @@
     <file path="$PROJECT_DIR$/../fgfc-new/lib/data/team_data/seniors.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385075037722" ignored="false" />
     <file path="/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1411595101458" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385242864000" ignored="false" />
-    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1426713878255" ignored="false" />
+    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1426714247816" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/layout.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663507223" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/home.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663610857" ignored="false" />
     <file path="/home.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663608201" ignored="false" />
@@ -248,7 +248,16 @@
       <file leaf-file-name="data.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/data/news/data.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="106" selection-start="226" selection-end="226" vertical-scroll-proportion="0.4170616">
+            <state line="13" column="24" selection-start="687" selection-end="687" vertical-scroll-proportion="0.60189575">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="carousel.slim" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/views/carousel.slim">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="49" selection-start="332" selection-end="332" vertical-scroll-proportion="-2.1290324">
               <folding />
             </state>
           </provider>
@@ -282,7 +291,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/lib/data/team_data/u14.rb" />
         <option value="$PROJECT_DIR$/lib/data/team_data/u15.rb" />
         <option value="$PROJECT_DIR$/lib/data/team_data/u17.rb" />
         <option value="$PROJECT_DIR$/lib/data/team_data/u18.rb" />
@@ -297,6 +305,7 @@
         <option value="$PROJECT_DIR$/lib/data/team_data/u6.rb" />
         <option value="$PROJECT_DIR$/lib/views/contact.slim" />
         <option value="$PROJECT_DIR$/lib/views/home.slim" />
+        <option value="$PROJECT_DIR$/lib/views/carousel.slim" />
         <option value="$PROJECT_DIR$/lib/data/news/data.rb" />
       </list>
     </option>
@@ -1051,7 +1060,11 @@
       <created>1426713892502</created>
       <updated>1426713892502</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="news update">
+      <created>1426714256654</created>
+      <updated>1426714256654</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1172,11 +1185,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/public/images/team/red2000.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/data/team_data/u13.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="78" column="36" selection-start="2411" selection-end="2411" vertical-scroll-proportion="0.0" />
@@ -1261,9 +1269,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/views/carousel.slim">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="49" selection-start="332" selection-end="332" vertical-scroll-proportion="-2.1290324">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/data/news/data.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="106" selection-start="226" selection-end="226" vertical-scroll-proportion="0.4170616">
+        <state line="13" column="24" selection-start="687" selection-end="687" vertical-scroll-proportion="0.60189575">
           <folding />
         </state>
       </provider>

@@ -10,6 +10,13 @@ module FGFC
         para2: "Our Under 10's currently play in the top division of the Southend District League so experience at this level would be an advantage.",
         para3: "Please contact Steve Bott (Manager) (FA level 2 qualified) for further details either by email Stephen.bott@tsb.co.uk or phone 07966 485 644"
     }
+    @news << {
+        type: 'important',
+        heading: "2015 Forest Glade 5's",
+        para1: 'The 2015 Forest Glade 5\'s will take place on Saturday 23rd and Sunday 24th May 2014.',
+        para2: 'Registration is now open.',
+        para3: 'Please visit <a href="http://www.thefg5s.co.uk">www.theFG5s.co.uk</a> for more information.'
+    }
 
     @news << {
         type: 'committee',
