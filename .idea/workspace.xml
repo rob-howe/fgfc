@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22f1ae15-8159-4826-b5bf-91437d87f3e5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/views/carousel.slim" afterPath="$PROJECT_DIR$/lib/views/carousel.slim" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/data/news/data.rb" afterPath="$PROJECT_DIR$/lib/data/news/data.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -28,7 +27,7 @@
     <file path="/carousel.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1426714467543" ignored="false" />
     <file path="/down.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385059232716" ignored="false" />
     <file path="/fgfc_controller.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1398759026825" ignored="false" />
-    <file path="/data.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1426714687544" ignored="false" />
+    <file path="/data.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1428523499528" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/data/news/data.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385417609178" ignored="false" />
     <file path="/history.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1384985249526" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/history.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385243027493" ignored="false" />
@@ -73,7 +72,7 @@
     <file path="$PROJECT_DIR$/../fgfc-new/lib/data/team_data/seniors.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385075037722" ignored="false" />
     <file path="/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1411595101458" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-new/lib/views/team.slim" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385242864000" ignored="false" />
-    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1426714247816" ignored="false" />
+    <file path="/Dummy.txt" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1428439264250" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/layout.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663507223" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-admin/views/home.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663610857" ignored="false" />
     <file path="/home.haml" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1385663608201" ignored="false" />
@@ -102,15 +101,15 @@
     <file path="/admin.css" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1386111383957" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-fives/config.ru" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1426450168593" ignored="false" />
     <file path="/config.ru" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1398721889455" ignored="false" />
-    <file path="$PROJECT_DIR$/../fg5s-admin/config.ru" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1396297627318" ignored="false" />
-    <file path="/team.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1389342841144" ignored="false" />
-    <file path="$PROJECT_DIR$/../fgfc-fives/lib/views/team.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1390162303795" ignored="false" />
+    <file path="$PROJECT_DIR$/../fg5s-admin/config.ru" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1428435803233" ignored="false" />
+    <file path="/team.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1428438009161" ignored="false" />
+    <file path="$PROJECT_DIR$/../fgfc-fives/lib/views/team.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1428438763687" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-fives/lib/fives_controller.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1426450168593" ignored="false" />
-    <file path="/fives_controller.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1398720011184" ignored="false" />
+    <file path="/fives_controller.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1428436761327" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-fives/lib/views/home.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1426450168593" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-fives/lib/views/layout.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1426201355549" ignored="false" />
     <file path="/home.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1390162706232" ignored="false" />
-    <file path="$PROJECT_DIR$/../fg5s-admin/lib/fives_controller.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1426450168593" ignored="false" />
+    <file path="$PROJECT_DIR$/../fg5s-admin/lib/fives_controller.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1428436816215" ignored="false" />
     <file path="$PROJECT_DIR$/../fg5s-admin/lib/views/registered.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1426450168593" ignored="false" />
     <file path="$PROJECT_DIR$/../fg5s-admin/lib/views/layout_fgfc.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1389825070213" ignored="false" />
     <file path="$PROJECT_DIR$/../fg5s-admin/lib/email_templates/confirmation.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1426450168593" ignored="false" />
@@ -161,12 +160,15 @@
     <file path="/layout.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1426200467659" ignored="false" />
     <file path="$PROJECT_DIR$/../fgfc-fives/Gemfile.lock" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1426449855544" ignored="false" />
     <file path="$PROJECT_DIR$/../fg5s-admin/lib/model/fives_team.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1426450168593" ignored="false" />
-    <file path="$PROJECT_DIR$/../fg5s-admin/lib/views/register_form.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1426450168593" ignored="false" />
+    <file path="$PROJECT_DIR$/../fg5s-admin/lib/views/register_form.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1428439260767" ignored="false" />
     <file path="$PROJECT_DIR$/../fg5s-admin/lib/views/excel.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1426450168593" ignored="false" />
     <file path="$PROJECT_DIR$/../fg5s-admin/lib/views/admin/add_team.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1426450168593" ignored="false" />
     <file path="$PROJECT_DIR$/../fg5s-admin/lib/views/admin/edit_team.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1426450168593" ignored="false" />
     <file path="$PROJECT_DIR$/../fg5s-admin/bdd/features/step_definitions/register_page_steps.rb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1426450168593" ignored="false" />
     <file path="$PROJECT_DIR$/../fg5s-admin/lib/views/admin/show_team.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1426450168593" ignored="false" />
+    <file path="$PROJECT_DIR$/../fg5s-admin/bdd/features/tests/register_page.feature" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1428386471647" ignored="false" />
+    <file path="/register_page.feature" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1428386405877" ignored="false" />
+    <file path="/register_form.erb" changelist="22f1ae15-8159-4826-b5bf-91437d87f3e5" time="1428439260767" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -248,7 +250,7 @@
       <file leaf-file-name="data.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/data/news/data.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="24" selection-start="687" selection-end="687" vertical-scroll-proportion="0.60189575">
+            <state line="13" column="31" selection-start="470" selection-end="470" vertical-scroll-proportion="0.43202418">
               <folding />
             </state>
           </provider>
@@ -1064,7 +1066,11 @@
       <created>1426714256654</created>
       <updated>1426714256654</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="2015 fives">
+      <created>1426714726638</created>
+      <updated>1426714726638</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1089,7 +1095,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22575977" sideWeight="0.66101694" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33898306" sideWeight="0.97553325" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33898306" sideWeight="0.97553325" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1136,7 +1142,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="news update" />
+    <option name="LAST_COMMIT_MESSAGE" value="2015 fives" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1149,7 +1155,6 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="added fives to carousel" />
     <MESSAGE value="updated news" />
     <MESSAGE value="added U10 tigers players wanted add" />
     <MESSAGE value="u12girls updated" />
@@ -1174,6 +1179,7 @@
     <MESSAGE value="new add" />
     <MESSAGE value="partyman world" />
     <MESSAGE value="news update" />
+    <MESSAGE value="2015 fives" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1278,7 +1284,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/data/news/data.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="24" selection-start="687" selection-end="687" vertical-scroll-proportion="0.60189575">
+        <state line="13" column="31" selection-start="470" selection-end="470" vertical-scroll-proportion="0.43202418">
           <folding />
         </state>
       </provider>
