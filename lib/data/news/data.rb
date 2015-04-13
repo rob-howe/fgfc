@@ -27,6 +27,14 @@ module FGFC
 
     @news << {
         type: 'committee',
+        heading: 'Official FGFC Goalkeeper Coach',
+        para1: "FGFC use Haydn Rockall Goalkeeping for our official goal keeper coaching.",
+        para2: "More details at",
+        para3: '<a href="http://www.haydnrockall.com/" target="_blank">www.haydnrockall.com</a>'
+    }
+
+    @news << {
+        type: 'committee',
         heading: 'Help Needed on The Committee',
         para1: "There are one or two vacancies on the club's committee.",
         para2: "Contact any member of the committee or your manager for details.",

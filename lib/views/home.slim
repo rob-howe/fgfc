@@ -2,6 +2,13 @@
 .default-header.hidden-md.hidden-lg
 .container
   .col-md-12
+    p.sponsor
+      a href="https://audioboom.com" target="_blank"
+        img src="/images/audioBoom.png"
+        ' audioboom.com
+      | the best spoken word audio in the world. Proud sponsors of the 2015 Forest Glade 5's.
+
+  .col-md-12
     h1 Club News
 
   - @news.each_with_index do |news_item, index|
