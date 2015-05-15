@@ -5,7 +5,7 @@ module FGFC
 
     @news << {
         type: 'team',
-        heading: "U11 Black - Striker Wanted",
+        heading: "U12 Black - Striker Wanted",
         para1: "Forest Glade U12 Black who play in the Southend and District Youth League are looking for a striker for next season.",
         para2: "We are a FA Charter Standard Club. Our manager and coach are CRB checked and FA Level 1 qualified.",
         para3: "If you are school year 7 in September and have league goalscoring ability then please call Nick Bailey on 07751 344644 or email nandkbailey@sky.com"
