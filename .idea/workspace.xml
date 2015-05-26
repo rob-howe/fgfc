@@ -96,8 +96,8 @@
       <file leaf-file-name="honours.slim" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/views/honours.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7810219" vertical-offset="9129" max-vertical-offset="9930">
-              <caret line="630" column="57" selection-start-line="630" selection-start-column="57" selection-end-line="630" selection-end-column="57" />
+            <state vertical-scroll-proportion="0.67153287" vertical-offset="9129" max-vertical-offset="9930">
+              <caret line="627" column="78" selection-start-line="627" selection-start-column="78" selection-end-line="627" selection-end-column="78" />
               <folding />
             </state>
           </provider>
@@ -577,12 +577,6 @@
       <option name="number" value="Default" />
       <updated>1384719063527</updated>
     </task>
-    <task id="LOCAL-00020" summary="added U10 tigers players wanted add">
-      <created>1391808255191</created>
-      <option name="number" value="00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1391808255191</updated>
-    </task>
     <task id="LOCAL-00021" summary="updated contacts">
       <created>1393453378708</created>
       <option name="number" value="00021" />
@@ -871,7 +865,13 @@
       <option name="project" value="LOCAL" />
       <updated>1432658751892</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="updated honours">
+      <created>1432660755826</created>
+      <option name="number" value="00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1432660755826</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -927,7 +927,6 @@
     <MESSAGE value="added 2 new adds" />
     <MESSAGE value="updated U10's" />
     <MESSAGE value="updated contacts" />
-    <MESSAGE value="updated honours" />
     <MESSAGE value="julies flipagram" />
     <MESSAGE value="updated u11 white" />
     <MESSAGE value="updated u11 black" />
@@ -947,7 +946,8 @@
     <MESSAGE value="U11 black advert" />
     <MESSAGE value="U12 black advert" />
     <MESSAGE value="U16  advert &amp; removal of fg5s" />
-    <option name="LAST_COMMIT_MESSAGE" value="U16  advert &amp; removal of fg5s" />
+    <MESSAGE value="updated honours" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated honours" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1258,8 +1258,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/views/honours.slim">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7810219" vertical-offset="9129" max-vertical-offset="9930">
-          <caret line="630" column="57" selection-start-line="630" selection-start-column="57" selection-end-line="630" selection-end-column="57" />
+        <state vertical-scroll-proportion="0.67153287" vertical-offset="9129" max-vertical-offset="9930">
+          <caret line="627" column="78" selection-start-line="627" selection-start-column="78" selection-end-line="627" selection-end-column="78" />
           <folding />
         </state>
       </provider>
